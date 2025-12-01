@@ -5,8 +5,9 @@ Imports filtered entities and relations into Neo4j graph database.
 Creates Entity nodes and RELATION edges with full metadata.
 
 Prerequisites:
-- Neo4j installed and running (default: localhost:7687)
+- Neo4j installed and running (or Neo4j Aura cloud instance)
 - neo4j Python driver installed (pip install neo4j)
+- Config updated in config/neo4j_config.py
 """
 
 import json
@@ -18,21 +19,22 @@ import sys
 # Add parent directory to path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from config.config import ROOT
+from config.neo4j_config import get_neo4j_config
 
 # Paths
 GRAPH_DATA_DIR = ROOT / "graph_data"
-
-# Neo4j connection settings (modify as needed)
-NEO4J_URI = "neo4j://127.0.0.1:7687"
-NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "biospace"  # Change this to your Neo4j password
 
 
 class Neo4jGraphBuilder:
     """Handles Neo4j graph construction."""
     
-    def __init__(self, uri, user, password):
-        """Initialize Neo4j connection."""
+    def __init__(self):
+        """Initialize Neo4j connection using config."""
+        config = get_neo4j_config()
+        uri = config['uri']
+        user = config['user']
+        password = config['password']
+        
         try:
             self.driver = GraphDatabase.driver(uri, auth=(user, password))
             # Test connection
@@ -42,10 +44,10 @@ class Neo4jGraphBuilder:
         except Exception as e:
             print(f"❌ Failed to connect to Neo4j: {e}")
             print(f"\nPlease ensure:")
-            print(f"  1. Neo4j is running")
+            print(f"  1. Neo4j is running (or Aura instance is active)")
             print(f"  2. URI is correct: {uri}")
             print(f"  3. Username/password are correct")
-            print(f"  4. Update NEO4J_PASSWORD in this script if needed")
+            print(f"  4. Update config/neo4j_config.py if needed")
             raise
     
     def close(self):
@@ -244,15 +246,11 @@ class Neo4jGraphBuilder:
             print(f"   {query}")
 
 
-def build_neo4j_graph(uri=NEO4J_URI, user=NEO4J_USER, password=NEO4J_PASSWORD, 
-                      clear_existing=True):
+def build_neo4j_graph(clear_existing=True):
     """
     Main function to build Neo4j graph from filtered data.
     
     Args:
-        uri: Neo4j connection URI
-        user: Neo4j username
-        password: Neo4j password
         clear_existing: Whether to clear existing data first
     """
     print("🚀 Starting Neo4j Graph Construction")
@@ -271,8 +269,8 @@ def build_neo4j_graph(uri=NEO4J_URI, user=NEO4J_USER, password=NEO4J_PASSWORD,
     print(f"✓ Loaded {len(entities)} entities")
     print(f"✓ Loaded {len(relations)} relations")
     
-    # Build graph
-    builder = Neo4jGraphBuilder(uri, user, password)
+    # Build graph using config
+    builder = Neo4jGraphBuilder()
     
     try:
         if clear_existing:
@@ -284,12 +282,21 @@ def build_neo4j_graph(uri=NEO4J_URI, user=NEO4J_USER, password=NEO4J_PASSWORD,
         builder.verify_import()
         builder.print_sample_queries()
         
+        config = get_neo4j_config()
+        print("\n" + "="*70)
+        print("✅ NEO4J GRAPH CONSTRUCTION COMPLETE")
+        config = get_neo4j_config()
         print("\n" + "="*70)
         print("✅ NEO4J GRAPH CONSTRUCTION COMPLETE")
         print("="*70)
-        print(f"\n🌐 Access Neo4j Browser at: http://localhost:7474")
-        print(f"   Username: {user}")
-        print(f"   Password: {password}")
+        
+        if 'localhost' in config['uri'] or '127.0.0.1' in config['uri']:
+            print(f"\n🌐 Access Neo4j Browser at: http://localhost:7474")
+        else:
+            print(f"\n🌐 Access Neo4j Browser at: https://console.neo4j.io/")
+        
+        print(f"   URI: {config['uri']}")
+        print(f"   Username: {config['user']}")
         print(f"\n📊 Graph contains:")
         print(f"   - {len(entities)} entity nodes")
         print(f"   - {len(relations)} relationship edges")
@@ -300,19 +307,14 @@ def build_neo4j_graph(uri=NEO4J_URI, user=NEO4J_USER, password=NEO4J_PASSWORD,
 
 if __name__ == "__main__":
     import sys
+    from config.neo4j_config import get_neo4j_config
     
-    # Check if password provided as command line argument
-    if len(sys.argv) > 1:
-        NEO4J_PASSWORD = sys.argv[1]
-        print(f"Using password from command line argument")
-    else:
-        print(f"\n⚠️  Using default password: '{NEO4J_PASSWORD}'")
-        print(f"   If this is incorrect, either:")
-        print(f"   1. Edit NEO4J_PASSWORD in this script")
-        print(f"   2. Or run: python graph_builder_neo4j.py YOUR_PASSWORD\n")
+    config = get_neo4j_config()
+    
+    print(f"\n📍 Target URI: {config['uri']}")
     
     try:
-        build_neo4j_graph(password=NEO4J_PASSWORD)
+        build_neo4j_graph()
     except Exception as e:
         print(f"\n❌ Error: {e}")
         print(f"\nTroubleshooting:")

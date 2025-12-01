@@ -8,6 +8,7 @@ sentence-transformers
 scikit-learn
 yake
 sqlalchemy
+python-dotenv
 
 # Member 1: NER, Relation Extraction, and Knowledge Graph
 spacy>=3.7.0
