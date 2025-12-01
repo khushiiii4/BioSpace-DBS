@@ -1,0 +1,6901 @@
+[
+  {
+    "entity_id": "E00001",
+    "name": "mouse",
+    "type": "organism",
+    "synonyms": [
+      "mice",
+      "Mouse",
+      "Mice",
+      "mouse"
+    ],
+    "papers": [
+      "PMC3890248",
+      "PMC6124165",
+      "PMC6915713",
+      "PMC8509868",
+      "PMC11579474",
+      "PMC10789781",
+      "PMC9576569",
+      "PMC11271499",
+      "PMC11929063",
+      "PMC6222041",
+      "PMC11063234",
+      "PMC5666799",
+      "PMC5826609",
+      "PMC3630201",
+      "PMC6366624",
+      "PMC8396460",
+      "PMC5761896",
+      "PMC5736159",
+      "PMC4136787",
+      "PMC5955502"
+    ]
+  },
+  {
+    "entity_id": "E00002",
+    "name": "c57/bl6 mouse",
+    "type": "organism",
+    "synonyms": [
+      "c57bl/6j mouse",
+      "c57bl/6 mouse",
+      "c57bl6/j mouse",
+      "C57/BL6 mice"
+    ],
+    "papers": [
+      "PMC6387434",
+      "PMC5761896",
+      "PMC5736159",
+      "PMC5666799",
+      "PMC4136787",
+      "PMC5826609",
+      "PMC4118556",
+      "PMC11929063",
+      "PMC6813909"
+    ]
+  },
+  {
+    "entity_id": "E00003",
+    "name": "16-week-old female c57bl/6j mouse",
+    "type": "organism",
+    "synonyms": [
+      "16-week-old female C57BL/6J mice"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00004",
+    "name": "human health",
+    "type": "organism",
+    "synonyms": [
+      "Human Health",
+      "human health"
+    ],
+    "papers": [
+      "PMC11988870",
+      "PMC7072278",
+      "PMC10789781"
+    ]
+  },
+  {
+    "entity_id": "E00005",
+    "name": "human cells",
+    "type": "organism",
+    "synonyms": [
+      "human cells"
+    ],
+    "papers": [
+      "PMC11988870"
+    ]
+  },
+  {
+    "entity_id": "E00006",
+    "name": "human",
+    "type": "organism",
+    "synonyms": [
+      "humans",
+      "human",
+      "Human"
+    ],
+    "papers": [
+      "PMC6387434",
+      "PMC11166944",
+      "PMC11988870",
+      "PMC6915713",
+      "PMC5460236",
+      "PMC7829349",
+      "PMC9267413",
+      "PMC11166968",
+      "PMC11166946"
+    ]
+  },
+  {
+    "entity_id": "E00007",
+    "name": "human pluripotent stem cells",
+    "type": "organism",
+    "synonyms": [
+      "human pluripotent stem cells"
+    ],
+    "papers": [
+      "PMC11988870"
+    ]
+  },
+  {
+    "entity_id": "E00008",
+    "name": "human adipose-derived stem cells",
+    "type": "organism",
+    "synonyms": [
+      "human adipose-derived stem cells"
+    ],
+    "papers": [
+      "PMC7998608"
+    ]
+  },
+  {
+    "entity_id": "E00009",
+    "name": "escherichia coli",
+    "type": "organism",
+    "synonyms": [
+      "Escherichia coli"
+    ],
+    "papers": [
+      "PMC5587110"
+    ]
+  },
+  {
+    "entity_id": "E00010",
+    "name": "mouse liver tissue",
+    "type": "organism",
+    "synonyms": [
+      "mouse liver tissue"
+    ],
+    "papers": [
+      "PMC5587110"
+    ]
+  },
+  {
+    "entity_id": "E00011",
+    "name": "rat",
+    "type": "organism",
+    "synonyms": [
+      "rats"
+    ],
+    "papers": [
+      "PMC6222041"
+    ]
+  },
+  {
+    "entity_id": "E00012",
+    "name": "mouse vertebral bodies",
+    "type": "organism",
+    "synonyms": [
+      "mouse vertebral bodies"
+    ],
+    "papers": [
+      "PMC6222041"
+    ]
+  },
+  {
+    "entity_id": "E00013",
+    "name": "c57bl/6j male mouse",
+    "type": "organism",
+    "synonyms": [
+      "C57BL/6J male mice"
+    ],
+    "papers": [
+      "PMC6222041"
+    ]
+  },
+  {
+    "entity_id": "E00014",
+    "name": "mouse vertebrae",
+    "type": "organism",
+    "synonyms": [
+      "Mouse Vertebrae"
+    ],
+    "papers": [
+      "PMC6813909"
+    ]
+  },
+  {
+    "entity_id": "E00015",
+    "name": "mouse lumbar vertebrae",
+    "type": "organism",
+    "synonyms": [
+      "mouse lumbar vertebrae."
+    ],
+    "papers": [
+      "PMC6813909"
+    ]
+  },
+  {
+    "entity_id": "E00016",
+    "name": "twenty-week",
+    "type": "organism",
+    "synonyms": [
+      "twenty-week"
+    ],
+    "papers": [
+      "PMC6813909"
+    ]
+  },
+  {
+    "entity_id": "E00017",
+    "name": "female",
+    "type": "organism",
+    "synonyms": [
+      "female"
+    ],
+    "papers": [
+      "PMC9267413",
+      "PMC6813909"
+    ]
+  },
+  {
+    "entity_id": "E00018",
+    "name": "murine skeletal muscle",
+    "type": "organism",
+    "synonyms": [
+      "murine skeletal muscle"
+    ],
+    "papers": [
+      "PMC4095884"
+    ]
+  },
+  {
+    "entity_id": "E00019",
+    "name": "drosophila",
+    "type": "organism",
+    "synonyms": [
+      "Drosophila"
+    ],
+    "papers": [
+      "PMC3901686",
+      "PMC7787258",
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00020",
+    "name": "human immune responses",
+    "type": "organism",
+    "synonyms": [
+      "Human immune responses"
+    ],
+    "papers": [
+      "PMC3901686"
+    ]
+  },
+  {
+    "entity_id": "E00021",
+    "name": "mouse liver",
+    "type": "organism",
+    "synonyms": [
+      "mouse liver"
+    ],
+    "papers": [
+      "PMC6985101",
+      "PMC6915713"
+    ]
+  },
+  {
+    "entity_id": "E00022",
+    "name": "human endothelial cells",
+    "type": "organism",
+    "synonyms": [
+      "human endothelial cells"
+    ],
+    "papers": [
+      "PMC6387434"
+    ]
+  },
+  {
+    "entity_id": "E00023",
+    "name": "women",
+    "type": "organism",
+    "synonyms": [
+      "women"
+    ],
+    "papers": [
+      "PMC9267413"
+    ]
+  },
+  {
+    "entity_id": "E00024",
+    "name": "men",
+    "type": "organism",
+    "synonyms": [
+      "men"
+    ],
+    "papers": [
+      "PMC9267413"
+    ]
+  },
+  {
+    "entity_id": "E00025",
+    "name": "betacoronavirus",
+    "type": "organism",
+    "synonyms": [
+      "betacoronavirus"
+    ],
+    "papers": [
+      "PMC10772081"
+    ]
+  },
+  {
+    "entity_id": "E00026",
+    "name": "patients",
+    "type": "organism",
+    "synonyms": [
+      "patients"
+    ],
+    "papers": [
+      "PMC11929063",
+      "PMC10772081"
+    ]
+  },
+  {
+    "entity_id": "E00027",
+    "name": "murine",
+    "type": "organism",
+    "synonyms": [
+      "murine"
+    ],
+    "papers": [
+      "PMC11166946"
+    ]
+  },
+  {
+    "entity_id": "E00028",
+    "name": "participants",
+    "type": "organism",
+    "synonyms": [
+      "participants"
+    ],
+    "papers": [
+      "PMC11166944"
+    ]
+  },
+  {
+    "entity_id": "E00029",
+    "name": "drosophila melanogaster",
+    "type": "organism",
+    "synonyms": [
+      "Drosophila melanogaster.",
+      "Drosophila melanogaster"
+    ],
+    "papers": [
+      "PMC7000411",
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00030",
+    "name": "roots",
+    "type": "organism",
+    "synonyms": [
+      "Roots"
+    ],
+    "papers": [
+      "PMC7503278"
+    ]
+  },
+  {
+    "entity_id": "E00031",
+    "name": "gcamp3 lines",
+    "type": "organism",
+    "synonyms": [
+      "GCaMP3 lines"
+    ],
+    "papers": [
+      "PMC7503278"
+    ]
+  },
+  {
+    "entity_id": "E00032",
+    "name": "murine skeletal",
+    "type": "organism",
+    "synonyms": [
+      "murine skeletal"
+    ],
+    "papers": [
+      "PMC11579474"
+    ]
+  },
+  {
+    "entity_id": "E00033",
+    "name": "e. coli",
+    "type": "organism",
+    "synonyms": [
+      "E. coli"
+    ],
+    "papers": [
+      "PMC11127935"
+    ]
+  },
+  {
+    "entity_id": "E00034",
+    "name": "mouse gastrocnemius muscle",
+    "type": "organism",
+    "synonyms": [
+      "mouse gastrocnemius muscle"
+    ],
+    "papers": [
+      "PMC4653813"
+    ]
+  },
+  {
+    "entity_id": "E00035",
+    "name": "c57bl/6",
+    "type": "organism",
+    "synonyms": [
+      "C57BL/6"
+    ],
+    "papers": [
+      "PMC6915713"
+    ]
+  },
+  {
+    "entity_id": "E00036",
+    "name": "jackson",
+    "type": "organism",
+    "synonyms": [
+      "Jackson"
+    ],
+    "papers": [
+      "PMC6915713"
+    ]
+  },
+  {
+    "entity_id": "E00037",
+    "name": "balb/c",
+    "type": "organism",
+    "synonyms": [
+      "BALB/c"
+    ],
+    "papers": [
+      "PMC6915713"
+    ]
+  },
+  {
+    "entity_id": "E00038",
+    "name": "female c57bl/6 mouse",
+    "type": "organism",
+    "synonyms": [
+      "female C57BL/6 mice"
+    ],
+    "papers": [
+      "PMC8509868"
+    ]
+  },
+  {
+    "entity_id": "E00039",
+    "name": "snail's vestibular",
+    "type": "organism",
+    "synonyms": [
+      "snail's vestibular"
+    ],
+    "papers": [
+      "PMC5672023"
+    ]
+  },
+  {
+    "entity_id": "E00040",
+    "name": "utricle",
+    "type": "organism",
+    "synonyms": [
+      "Utricle"
+    ],
+    "papers": [
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00041",
+    "name": "fish",
+    "type": "organism",
+    "synonyms": [
+      "fish"
+    ],
+    "papers": [
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00042",
+    "name": "mouse cardiac",
+    "type": "organism",
+    "synonyms": [
+      "mouse cardiac"
+    ],
+    "papers": [
+      "PMC5955502"
+    ]
+  },
+  {
+    "entity_id": "E00043",
+    "name": "human cardiovascular progenitor cells",
+    "type": "organism",
+    "synonyms": [
+      "human cardiovascular progenitor cells"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00044",
+    "name": "des",
+    "type": "organism",
+    "synonyms": [
+      "DES"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00045",
+    "name": "human populations",
+    "type": "organism",
+    "synonyms": [
+      "human populations"
+    ],
+    "papers": [
+      "PMC9832585"
+    ]
+  },
+  {
+    "entity_id": "E00046",
+    "name": "mouse bone marrow cells",
+    "type": "organism",
+    "synonyms": [
+      "mouse bone marrow cells"
+    ],
+    "papers": [
+      "PMC3570223"
+    ]
+  },
+  {
+    "entity_id": "E00047",
+    "name": "ehrlichia",
+    "type": "organism",
+    "synonyms": [
+      "Ehrlichia"
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00048",
+    "name": "tick-borne disease human monocytic",
+    "type": "organism",
+    "synonyms": [
+      "tick-borne disease human monocytic"
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00049",
+    "name": "e",
+    "type": "organism",
+    "synonyms": [
+      "E."
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00050",
+    "name": "swine",
+    "type": "organism",
+    "synonyms": [
+      "swine"
+    ],
+    "papers": [
+      "PMC11046949"
+    ]
+  },
+  {
+    "entity_id": "E00051",
+    "name": "apparatus (fpa)1",
+    "type": "organism",
+    "synonyms": [
+      "Apparatus (FPA)1"
+    ],
+    "papers": [
+      "PMC3890248"
+    ]
+  },
+  {
+    "entity_id": "E00052",
+    "name": "murine antibody repertoire",
+    "type": "organism",
+    "synonyms": [
+      "murine antibody repertoire"
+    ],
+    "papers": [
+      "PMC5761896",
+      "PMC5736159"
+    ]
+  },
+  {
+    "entity_id": "E00053",
+    "name": "aav8-based",
+    "type": "organism",
+    "synonyms": [
+      "AAV8-based"
+    ],
+    "papers": [
+      "PMC11929063"
+    ]
+  },
+  {
+    "entity_id": "E00054",
+    "name": "human factor viii",
+    "type": "organism",
+    "synonyms": [
+      "human factor VIII"
+    ],
+    "papers": [
+      "PMC11929063"
+    ]
+  },
+  {
+    "entity_id": "E00055",
+    "name": "human fviii mouse",
+    "type": "organism",
+    "synonyms": [
+      "human FVIII mice"
+    ],
+    "papers": [
+      "PMC11929063"
+    ]
+  },
+  {
+    "entity_id": "E00056",
+    "name": "bion-m 1",
+    "type": "gene",
+    "synonyms": [
+      "Bion-M 1"
+    ],
+    "papers": [
+      "PMC4136787"
+    ]
+  },
+  {
+    "entity_id": "E00057",
+    "name": "cdkn1a/p21",
+    "type": "gene",
+    "synonyms": [
+      "CDKN1a/p21"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00058",
+    "name": "matrix metalloproteinases",
+    "type": "gene",
+    "synonyms": [
+      "matrix metalloproteinases"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00059",
+    "name": "mmp10",
+    "type": "gene",
+    "synonyms": [
+      "MMP10"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00060",
+    "name": "trp53",
+    "type": "gene",
+    "synonyms": [
+      "Trp53"
+    ],
+    "papers": [
+      "PMC3630201",
+      "PMC8396460"
+    ]
+  },
+  {
+    "entity_id": "E00061",
+    "name": "hippo",
+    "type": "gene",
+    "synonyms": [
+      "Hippo"
+    ],
+    "papers": [
+      "PMC11988870",
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00062",
+    "name": "pi3k-akt",
+    "type": "gene",
+    "synonyms": [
+      "PI3K-Akt"
+    ],
+    "papers": [
+      "PMC11988870"
+    ]
+  },
+  {
+    "entity_id": "E00063",
+    "name": "collagen",
+    "type": "gene",
+    "synonyms": [
+      "collagen",
+      "Collagen"
+    ],
+    "papers": [
+      "PMC6813909",
+      "PMC7998608"
+    ]
+  },
+  {
+    "entity_id": "E00064",
+    "name": "oct4",
+    "type": "gene",
+    "synonyms": [
+      "OCT4"
+    ],
+    "papers": [
+      "PMC7998608"
+    ]
+  },
+  {
+    "entity_id": "E00065",
+    "name": "sox2",
+    "type": "gene",
+    "synonyms": [
+      "SOX2"
+    ],
+    "papers": [
+      "PMC7998608"
+    ]
+  },
+  {
+    "entity_id": "E00066",
+    "name": "nanog",
+    "type": "gene",
+    "synonyms": [
+      "NANOG"
+    ],
+    "papers": [
+      "PMC7998608"
+    ]
+  },
+  {
+    "entity_id": "E00067",
+    "name": "myc",
+    "type": "gene",
+    "synonyms": [
+      "Myc",
+      "MYC"
+    ],
+    "papers": [
+      "PMC8396460",
+      "PMC7998608"
+    ]
+  },
+  {
+    "entity_id": "E00068",
+    "name": "klf",
+    "type": "gene",
+    "synonyms": [
+      "KLF"
+    ],
+    "papers": [
+      "PMC7998608"
+    ]
+  },
+  {
+    "entity_id": "E00069",
+    "name": "nfe2l2",
+    "type": "gene",
+    "synonyms": [
+      "Nfe2l2"
+    ],
+    "papers": [
+      "PMC8396460"
+    ]
+  },
+  {
+    "entity_id": "E00070",
+    "name": "nrf2",
+    "type": "gene",
+    "synonyms": [
+      "Nrf2"
+    ],
+    "papers": [
+      "PMC8396460"
+    ]
+  },
+  {
+    "entity_id": "E00071",
+    "name": "nox1",
+    "type": "gene",
+    "synonyms": [
+      "Nox1"
+    ],
+    "papers": [
+      "PMC8396460"
+    ]
+  },
+  {
+    "entity_id": "E00072",
+    "name": "ptgs2",
+    "type": "gene",
+    "synonyms": [
+      "Ptgs2"
+    ],
+    "papers": [
+      "PMC8396460"
+    ]
+  },
+  {
+    "entity_id": "E00073",
+    "name": "cdkn1a",
+    "type": "gene",
+    "synonyms": [
+      "Cdkn1a"
+    ],
+    "papers": [
+      "PMC8396460"
+    ]
+  },
+  {
+    "entity_id": "E00074",
+    "name": "p21",
+    "type": "gene",
+    "synonyms": [
+      "p21"
+    ],
+    "papers": [
+      "PMC8396460"
+    ]
+  },
+  {
+    "entity_id": "E00075",
+    "name": "tnf",
+    "type": "gene",
+    "synonyms": [
+      "Tnf"
+    ],
+    "papers": [
+      "PMC8396460"
+    ]
+  },
+  {
+    "entity_id": "E00076",
+    "name": "catalase",
+    "type": "gene",
+    "synonyms": [
+      "catalase",
+      "Catalase"
+    ],
+    "papers": [
+      "PMC5666799",
+      "PMC8816950"
+    ]
+  },
+  {
+    "entity_id": "E00077",
+    "name": "gadd45",
+    "type": "gene",
+    "synonyms": [
+      "Gadd45"
+    ],
+    "papers": [
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00078",
+    "name": "superoxide dismutase",
+    "type": "gene",
+    "synonyms": [
+      "superoxide dismutase"
+    ],
+    "papers": [
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00079",
+    "name": "γ-sarcoglycan",
+    "type": "gene",
+    "synonyms": [
+      "γ-sarcoglycan"
+    ],
+    "papers": [
+      "PMC4095884"
+    ]
+  },
+  {
+    "entity_id": "E00080",
+    "name": "p70s6",
+    "type": "gene",
+    "synonyms": [
+      "p70S6"
+    ],
+    "papers": [
+      "PMC4095884"
+    ]
+  },
+  {
+    "entity_id": "E00081",
+    "name": "glycosyltransferase",
+    "type": "gene",
+    "synonyms": [
+      "glycosyltransferase"
+    ],
+    "papers": [
+      "PMC11500582"
+    ]
+  },
+  {
+    "entity_id": "E00082",
+    "name": "snares",
+    "type": "gene",
+    "synonyms": [
+      "snare",
+      "SNAREs"
+    ],
+    "papers": [
+      "PMC11500582",
+      "PMC4642138"
+    ]
+  },
+  {
+    "entity_id": "E00083",
+    "name": "trans-golgi",
+    "type": "gene",
+    "synonyms": [
+      "trans-Golgi"
+    ],
+    "papers": [
+      "PMC11500582"
+    ]
+  },
+  {
+    "entity_id": "E00084",
+    "name": "qa-snare",
+    "type": "gene",
+    "synonyms": [
+      "Qa-SNARE"
+    ],
+    "papers": [
+      "PMC11500582"
+    ]
+  },
+  {
+    "entity_id": "E00085",
+    "name": "syntaxin",
+    "type": "gene",
+    "synonyms": [
+      "SYNTAXIN"
+    ],
+    "papers": [
+      "PMC11500582"
+    ]
+  },
+  {
+    "entity_id": "E00086",
+    "name": "thaliana glycosyltransferase-like protein",
+    "type": "gene",
+    "synonyms": [
+      "thaliana GlycosylTransferase-Like Protein"
+    ],
+    "papers": [
+      "PMC11500582"
+    ]
+  },
+  {
+    "entity_id": "E00087",
+    "name": "tno1",
+    "type": "gene",
+    "synonyms": [
+      "TNO1"
+    ],
+    "papers": [
+      "PMC5387210",
+      "PMC4642138"
+    ]
+  },
+  {
+    "entity_id": "E00088",
+    "name": "tgn-localized",
+    "type": "gene",
+    "synonyms": [
+      "TGN-localized"
+    ],
+    "papers": [
+      "PMC5387210"
+    ]
+  },
+  {
+    "entity_id": "E00089",
+    "name": "syp41",
+    "type": "gene",
+    "synonyms": [
+      "SYP41"
+    ],
+    "papers": [
+      "PMC4642138"
+    ]
+  },
+  {
+    "entity_id": "E00090",
+    "name": "auxin transport proteins",
+    "type": "gene",
+    "synonyms": [
+      "auxin transport proteins"
+    ],
+    "papers": [
+      "PMC4642138"
+    ]
+  },
+  {
+    "entity_id": "E00091",
+    "name": "toll",
+    "type": "gene",
+    "synonyms": [
+      "Toll"
+    ],
+    "papers": [
+      "PMC7000411",
+      "PMC3901686"
+    ]
+  },
+  {
+    "entity_id": "E00092",
+    "name": "imd",
+    "type": "gene",
+    "synonyms": [
+      "Imd"
+    ],
+    "papers": [
+      "PMC7000411",
+      "PMC3901686"
+    ]
+  },
+  {
+    "entity_id": "E00093",
+    "name": "fyn",
+    "type": "gene",
+    "synonyms": [
+      "FYN"
+    ],
+    "papers": [
+      "PMC6387434"
+    ]
+  },
+  {
+    "entity_id": "E00094",
+    "name": "gcr",
+    "type": "gene",
+    "synonyms": [
+      "GCR"
+    ],
+    "papers": [
+      "PMC7072278"
+    ]
+  },
+  {
+    "entity_id": "E00095",
+    "name": "sci rep 8(1)",
+    "type": "gene",
+    "synonyms": [
+      "Sci Rep 8(1):"
+    ],
+    "papers": [
+      "PMC10789781"
+    ]
+  },
+  {
+    "entity_id": "E00096",
+    "name": "mir-125b-5p",
+    "type": "gene",
+    "synonyms": [
+      "miR-125b-5p"
+    ],
+    "papers": [
+      "PMC11166944"
+    ]
+  },
+  {
+    "entity_id": "E00097",
+    "name": "let-7a-5p",
+    "type": "gene",
+    "synonyms": [
+      "let-7a-5p"
+    ],
+    "papers": [
+      "PMC11166944"
+    ]
+  },
+  {
+    "entity_id": "E00098",
+    "name": "antagomir",
+    "type": "gene",
+    "synonyms": [
+      "antagomir"
+    ],
+    "papers": [
+      "PMC11166944"
+    ]
+  },
+  {
+    "entity_id": "E00099",
+    "name": "commercial/private",
+    "type": "gene",
+    "synonyms": [
+      "commercial/private"
+    ],
+    "papers": [
+      "PMC11166968"
+    ]
+  },
+  {
+    "entity_id": "E00100",
+    "name": "actin cytoskeleton",
+    "type": "gene",
+    "synonyms": [
+      "Actin Cytoskeleton",
+      "actin cytoskeleton"
+    ],
+    "papers": [
+      "PMC8716943"
+    ]
+  },
+  {
+    "entity_id": "E00101",
+    "name": "actin",
+    "type": "gene",
+    "synonyms": [
+      "actin",
+      "Actin"
+    ],
+    "papers": [
+      "PMC7010715",
+      "PMC8716943"
+    ]
+  },
+  {
+    "entity_id": "E00102",
+    "name": "actin bundles",
+    "type": "gene",
+    "synonyms": [
+      "actin bundles"
+    ],
+    "papers": [
+      "PMC8716943"
+    ]
+  },
+  {
+    "entity_id": "E00103",
+    "name": "auxin",
+    "type": "gene",
+    "synonyms": [
+      "auxin"
+    ],
+    "papers": [
+      "PMC8716943"
+    ]
+  },
+  {
+    "entity_id": "E00104",
+    "name": "auxin transporters",
+    "type": "gene",
+    "synonyms": [
+      "auxin transporters"
+    ],
+    "papers": [
+      "PMC8716943"
+    ]
+  },
+  {
+    "entity_id": "E00105",
+    "name": "actin network",
+    "type": "gene",
+    "synonyms": [
+      "actin network"
+    ],
+    "papers": [
+      "PMC8716943"
+    ]
+  },
+  {
+    "entity_id": "E00106",
+    "name": "filamentous-actin",
+    "type": "gene",
+    "synonyms": [
+      "filamentous-actin"
+    ],
+    "papers": [
+      "PMC7010715"
+    ]
+  },
+  {
+    "entity_id": "E00107",
+    "name": "f-actin",
+    "type": "gene",
+    "synonyms": [
+      "F-actin"
+    ],
+    "papers": [
+      "PMC7010715"
+    ]
+  },
+  {
+    "entity_id": "E00108",
+    "name": "etiolated m. truncatula",
+    "type": "gene",
+    "synonyms": [
+      "etiolated M. truncatula"
+    ],
+    "papers": [
+      "PMC7010715"
+    ]
+  },
+  {
+    "entity_id": "E00109",
+    "name": "gcamp3",
+    "type": "gene",
+    "synonyms": [
+      "GCaMP3"
+    ],
+    "papers": [
+      "PMC7503278"
+    ]
+  },
+  {
+    "entity_id": "E00110",
+    "name": "ubiquitin10",
+    "type": "gene",
+    "synonyms": [
+      "Ubiquitin10"
+    ],
+    "papers": [
+      "PMC7503278"
+    ]
+  },
+  {
+    "entity_id": "E00111",
+    "name": "ubq10",
+    "type": "gene",
+    "synonyms": [
+      "UBQ10"
+    ],
+    "papers": [
+      "PMC7503278"
+    ]
+  },
+  {
+    "entity_id": "E00112",
+    "name": "wave/scar",
+    "type": "gene",
+    "synonyms": [
+      "WAVE/SCAR"
+    ],
+    "papers": [
+      "PMC8364238"
+    ]
+  },
+  {
+    "entity_id": "E00113",
+    "name": "scar/wave",
+    "type": "gene",
+    "synonyms": [
+      "SCAR/WAVE"
+    ],
+    "papers": [
+      "PMC8364238"
+    ]
+  },
+  {
+    "entity_id": "E00114",
+    "name": "tm1",
+    "type": "gene",
+    "synonyms": [
+      "TM1"
+    ],
+    "papers": [
+      "PMC3289768"
+    ]
+  },
+  {
+    "entity_id": "E00115",
+    "name": "tm2",
+    "type": "gene",
+    "synonyms": [
+      "TM2"
+    ],
+    "papers": [
+      "PMC3289768"
+    ]
+  },
+  {
+    "entity_id": "E00116",
+    "name": "cb",
+    "type": "gene",
+    "synonyms": [
+      "CB"
+    ],
+    "papers": [
+      "PMC3289768"
+    ]
+  },
+  {
+    "entity_id": "E00117",
+    "name": "chimeras",
+    "type": "gene",
+    "synonyms": [
+      "Chimeras"
+    ],
+    "papers": [
+      "PMC3593973"
+    ]
+  },
+  {
+    "entity_id": "E00118",
+    "name": "tardigrade secretory proteins",
+    "type": "gene",
+    "synonyms": [
+      "Tardigrade secretory proteins"
+    ],
+    "papers": [
+      "PMC11127935"
+    ]
+  },
+  {
+    "entity_id": "E00119",
+    "name": "lea proteins in response to hyperosmotic stress",
+    "type": "gene",
+    "synonyms": [
+      "LEA proteins in response to hyperosmotic stress."
+    ],
+    "papers": [
+      "PMC11930778"
+    ]
+  },
+  {
+    "entity_id": "E00120",
+    "name": "cahs3",
+    "type": "gene",
+    "synonyms": [
+      "CAHS3"
+    ],
+    "papers": [
+      "PMC11930778"
+    ]
+  },
+  {
+    "entity_id": "E00121",
+    "name": "glutathione peroxidase",
+    "type": "gene",
+    "synonyms": [
+      "glutathione peroxidase"
+    ],
+    "papers": [
+      "PMC8816950"
+    ]
+  },
+  {
+    "entity_id": "E00122",
+    "name": "glutathione reductase",
+    "type": "gene",
+    "synonyms": [
+      "glutathione reductase"
+    ],
+    "papers": [
+      "PMC8816950"
+    ]
+  },
+  {
+    "entity_id": "E00123",
+    "name": "aquaporins 3",
+    "type": "gene",
+    "synonyms": [
+      "aquaporins 3"
+    ],
+    "papers": [
+      "PMC8816950"
+    ]
+  },
+  {
+    "entity_id": "E00124",
+    "name": "glucagon",
+    "type": "gene",
+    "synonyms": [
+      "Glucagon"
+    ],
+    "papers": [
+      "PMC6915713"
+    ]
+  },
+  {
+    "entity_id": "E00125",
+    "name": "insulin",
+    "type": "gene",
+    "synonyms": [
+      "Insulin"
+    ],
+    "papers": [
+      "PMC6915713"
+    ]
+  },
+  {
+    "entity_id": "E00126",
+    "name": "bmpr1a",
+    "type": "gene",
+    "synonyms": [
+      "BMPR1A"
+    ],
+    "papers": [
+      "PMC6124165"
+    ]
+  },
+  {
+    "entity_id": "E00127",
+    "name": "wnt",
+    "type": "gene",
+    "synonyms": [
+      "Wnt"
+    ],
+    "papers": [
+      "PMC8509868",
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00128",
+    "name": "pfkfb3",
+    "type": "gene",
+    "synonyms": [
+      "Pfkfb3"
+    ],
+    "papers": [
+      "PMC8509868"
+    ]
+  },
+  {
+    "entity_id": "E00129",
+    "name": "mss51",
+    "type": "gene",
+    "synonyms": [
+      "Mss51"
+    ],
+    "papers": [
+      "PMC8509868"
+    ]
+  },
+  {
+    "entity_id": "E00130",
+    "name": "snail",
+    "type": "gene",
+    "synonyms": [
+      "Snail"
+    ],
+    "papers": [
+      "PMC5672023"
+    ]
+  },
+  {
+    "entity_id": "E00131",
+    "name": "3–4",
+    "type": "gene",
+    "synonyms": [
+      "3–4"
+    ],
+    "papers": [
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00132",
+    "name": "er",
+    "type": "gene",
+    "synonyms": [
+      "ER"
+    ],
+    "papers": [
+      "PMC3818365",
+      "PMC4618186",
+      "PMC4064004",
+      "PMC6289879"
+    ]
+  },
+  {
+    "entity_id": "E00133",
+    "name": "copi",
+    "type": "gene",
+    "synonyms": [
+      "copii",
+      "COPI"
+    ],
+    "papers": [
+      "PMC4064004"
+    ]
+  },
+  {
+    "entity_id": "E00134",
+    "name": "ire1",
+    "type": "gene",
+    "synonyms": [
+      "IRE1"
+    ],
+    "papers": [
+      "PMC3818365"
+    ]
+  },
+  {
+    "entity_id": "E00135",
+    "name": "upr",
+    "type": "gene",
+    "synonyms": [
+      "UPR"
+    ],
+    "papers": [
+      "PMC3818365",
+      "PMC4618186",
+      "PMC6289879"
+    ]
+  },
+  {
+    "entity_id": "E00136",
+    "name": "unfolded protein response and auxin",
+    "type": "gene",
+    "synonyms": [
+      "UNFOLDED PROTEIN RESPONSE AND AUXIN"
+    ],
+    "papers": [
+      "PMC3981873"
+    ]
+  },
+  {
+    "entity_id": "E00137",
+    "name": "nadph oxidase",
+    "type": "gene",
+    "synonyms": [
+      "NADPH Oxidase"
+    ],
+    "papers": [
+      "PMC6289879"
+    ]
+  },
+  {
+    "entity_id": "E00138",
+    "name": "rbohf",
+    "type": "gene",
+    "synonyms": [
+      "RBOHF"
+    ],
+    "papers": [
+      "PMC6289879"
+    ]
+  },
+  {
+    "entity_id": "E00139",
+    "name": "tet1",
+    "type": "gene",
+    "synonyms": [
+      "Tet1"
+    ],
+    "papers": [
+      "PMC5955502"
+    ]
+  },
+  {
+    "entity_id": "E00140",
+    "name": "tet3",
+    "type": "gene",
+    "synonyms": [
+      "Tet3"
+    ],
+    "papers": [
+      "PMC5955502"
+    ]
+  },
+  {
+    "entity_id": "E00141",
+    "name": "histone acetylase",
+    "type": "gene",
+    "synonyms": [
+      "histone deacetylase",
+      "histone acetylase"
+    ],
+    "papers": [
+      "PMC5955502"
+    ]
+  },
+  {
+    "entity_id": "E00142",
+    "name": "tet2",
+    "type": "gene",
+    "synonyms": [
+      "Tet2"
+    ],
+    "papers": [
+      "PMC5955502"
+    ]
+  },
+  {
+    "entity_id": "E00143",
+    "name": "gsk3",
+    "type": "gene",
+    "synonyms": [
+      "GSK3"
+    ],
+    "papers": [
+      "PMC10285634"
+    ]
+  },
+  {
+    "entity_id": "E00144",
+    "name": "buoe",
+    "type": "gene",
+    "synonyms": [
+      "BuOE"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00145",
+    "name": "serca",
+    "type": "gene",
+    "synonyms": [
+      "SERCA"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00146",
+    "name": "yap1",
+    "type": "gene",
+    "synonyms": [
+      "YAP1"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00147",
+    "name": "rhoa",
+    "type": "gene",
+    "synonyms": [
+      "RHOA"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00148",
+    "name": "vim",
+    "type": "gene",
+    "synonyms": [
+      "VIM"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00149",
+    "name": "lmnb2",
+    "type": "gene",
+    "synonyms": [
+      "LMNB2"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00150",
+    "name": "wnt5a",
+    "type": "gene",
+    "synonyms": [
+      "WNT5A"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00151",
+    "name": "wnt9a",
+    "type": "gene",
+    "synonyms": [
+      "WNT9A"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00152",
+    "name": "wnt/calcium",
+    "type": "gene",
+    "synonyms": [
+      "Wnt/calcium"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00153",
+    "name": "plcg1",
+    "type": "gene",
+    "synonyms": [
+      "PLCG1"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00154",
+    "name": "tnnt2",
+    "type": "gene",
+    "synonyms": [
+      "TNNT2"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00155",
+    "name": "vwf",
+    "type": "gene",
+    "synonyms": [
+      "VWF"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00156",
+    "name": "runx2",
+    "type": "gene",
+    "synonyms": [
+      "RUNX2"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00157",
+    "name": "bmp",
+    "type": "gene",
+    "synonyms": [
+      "Bmp"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00158",
+    "name": "tbx",
+    "type": "gene",
+    "synonyms": [
+      "Tbx"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00159",
+    "name": "m-csf",
+    "type": "gene",
+    "synonyms": [
+      "M-CSF"
+    ],
+    "papers": [
+      "PMC3570223"
+    ]
+  },
+  {
+    "entity_id": "E00160",
+    "name": "c-fms",
+    "type": "gene",
+    "synonyms": [
+      "c-Fms"
+    ],
+    "papers": [
+      "PMC3570223"
+    ]
+  },
+  {
+    "entity_id": "E00161",
+    "name": "cd11b",
+    "type": "gene",
+    "synonyms": [
+      "CD11b"
+    ],
+    "papers": [
+      "PMC3570223"
+    ]
+  },
+  {
+    "entity_id": "E00162",
+    "name": "cd31",
+    "type": "gene",
+    "synonyms": [
+      "CD31"
+    ],
+    "papers": [
+      "PMC3570223"
+    ]
+  },
+  {
+    "entity_id": "E00163",
+    "name": "cd44",
+    "type": "gene",
+    "synonyms": [
+      "CD44"
+    ],
+    "papers": [
+      "PMC3570223"
+    ]
+  },
+  {
+    "entity_id": "E00164",
+    "name": "ly6c",
+    "type": "gene",
+    "synonyms": [
+      "Ly6C"
+    ],
+    "papers": [
+      "PMC3570223"
+    ]
+  },
+  {
+    "entity_id": "E00165",
+    "name": "ly6g",
+    "type": "gene",
+    "synonyms": [
+      "Ly6G"
+    ],
+    "papers": [
+      "PMC3570223"
+    ]
+  },
+  {
+    "entity_id": "E00166",
+    "name": "f4/80",
+    "type": "gene",
+    "synonyms": [
+      "F4/80"
+    ],
+    "papers": [
+      "PMC3890248",
+      "PMC3570223"
+    ]
+  },
+  {
+    "entity_id": "E00167",
+    "name": "mac2",
+    "type": "gene",
+    "synonyms": [
+      "Mac2"
+    ],
+    "papers": [
+      "PMC3570223"
+    ]
+  },
+  {
+    "entity_id": "E00168",
+    "name": "c-fos",
+    "type": "gene",
+    "synonyms": [
+      "c-Fos"
+    ],
+    "papers": [
+      "PMC3570223"
+    ]
+  },
+  {
+    "entity_id": "E00169",
+    "name": "uas-gal4",
+    "type": "gene",
+    "synonyms": [
+      "UAS-GAL4"
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00170",
+    "name": "uck2",
+    "type": "gene",
+    "synonyms": [
+      "Uck2"
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00171",
+    "name": "macrophage colony stimulating factor-dependent macrophage",
+    "type": "gene",
+    "synonyms": [
+      "macrophage colony stimulating factor-dependent macrophage"
+    ],
+    "papers": [
+      "PMC3890248"
+    ]
+  },
+  {
+    "entity_id": "E00172",
+    "name": "immunoglobulin",
+    "type": "gene",
+    "synonyms": [
+      "Immunoglobulin",
+      "immunoglobulin"
+    ],
+    "papers": [
+      "PMC5736159",
+      "PMC5826609"
+    ]
+  },
+  {
+    "entity_id": "E00173",
+    "name": "igh",
+    "type": "gene",
+    "synonyms": [
+      "IgH"
+    ],
+    "papers": [
+      "PMC5736159",
+      "PMC5826609"
+    ]
+  },
+  {
+    "entity_id": "E00174",
+    "name": "ig",
+    "type": "gene",
+    "synonyms": [
+      "Ig"
+    ],
+    "papers": [
+      "PMC5736159",
+      "PMC5826609"
+    ]
+  },
+  {
+    "entity_id": "E00175",
+    "name": "light-chains",
+    "type": "gene",
+    "synonyms": [
+      "light-chains"
+    ],
+    "papers": [
+      "PMC5761896"
+    ]
+  },
+  {
+    "entity_id": "E00176",
+    "name": "light-chain immunoglobulin",
+    "type": "gene",
+    "synonyms": [
+      "light-chain immunoglobulin"
+    ],
+    "papers": [
+      "PMC5761896"
+    ]
+  },
+  {
+    "entity_id": "E00177",
+    "name": "murine antibody repertoire",
+    "type": "gene",
+    "synonyms": [
+      "murine antibody repertoire"
+    ],
+    "papers": [
+      "PMC6366624"
+    ]
+  },
+  {
+    "entity_id": "E00178",
+    "name": "cdr3",
+    "type": "gene",
+    "synonyms": [
+      "CDR3"
+    ],
+    "papers": [
+      "PMC6366624",
+      "PMC10996920"
+    ]
+  },
+  {
+    "entity_id": "E00179",
+    "name": "v-gene",
+    "type": "gene",
+    "synonyms": [
+      "V-gene"
+    ],
+    "papers": [
+      "PMC6366624"
+    ]
+  },
+  {
+    "entity_id": "E00180",
+    "name": "tak-754",
+    "type": "gene",
+    "synonyms": [
+      "TAK-754"
+    ],
+    "papers": [
+      "PMC11929063"
+    ]
+  },
+  {
+    "entity_id": "E00181",
+    "name": "fviii",
+    "type": "gene",
+    "synonyms": [
+      "FVIII"
+    ],
+    "papers": [
+      "PMC11929063"
+    ]
+  },
+  {
+    "entity_id": "E00182",
+    "name": "liver-specific",
+    "type": "gene",
+    "synonyms": [
+      "liver-specific"
+    ],
+    "papers": [
+      "PMC11929063"
+    ]
+  },
+  {
+    "entity_id": "E00183",
+    "name": "antibody repertoire",
+    "type": "gene",
+    "synonyms": [
+      "Antibody Repertoire"
+    ],
+    "papers": [
+      "PMC10996920"
+    ]
+  },
+  {
+    "entity_id": "E00184",
+    "name": "vdj",
+    "type": "gene",
+    "synonyms": [
+      "VDJ"
+    ],
+    "papers": [
+      "PMC10996920"
+    ]
+  },
+  {
+    "entity_id": "E00185",
+    "name": "cellular",
+    "type": "cell_type",
+    "synonyms": [
+      "cellular",
+      "Cellular"
+    ],
+    "papers": [
+      "PMC11988870",
+      "PMC4064004",
+      "PMC4136787",
+      "PMC5415411",
+      "PMC9832585",
+      "PMC3818365",
+      "PMC6813909",
+      "PMC4642138",
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00186",
+    "name": "osteoblastic cell",
+    "type": "cell_type",
+    "synonyms": [
+      "Osteoblastic Cell"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00187",
+    "name": "osteoclasts",
+    "type": "cell_type",
+    "synonyms": [
+      "osteoblasts",
+      "osteoclast",
+      "osteoblast",
+      "osteoclasts"
+    ],
+    "papers": [
+      "PMC3630201",
+      "PMC11579474"
+    ]
+  },
+  {
+    "entity_id": "E00188",
+    "name": "osteocytes",
+    "type": "cell_type",
+    "synonyms": [
+      "osteocytes"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00189",
+    "name": "stem cell",
+    "type": "cell_type",
+    "synonyms": [
+      "stem cell"
+    ],
+    "papers": [
+      "PMC11988870",
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00190",
+    "name": "cell",
+    "type": "cell_type",
+    "synonyms": [
+      "cell",
+      "Cell",
+      "cells"
+    ],
+    "papers": [
+      "PMC3890248",
+      "PMC7503278",
+      "PMC11127935",
+      "PMC10789781",
+      "PMC3558598",
+      "PMC7010715",
+      "PMC6062551",
+      "PMC11930778",
+      "PMC5666799",
+      "PMC3289768",
+      "PMC3630201",
+      "PMC5587110",
+      "PMC8396460",
+      "PMC3570223",
+      "PMC4064004",
+      "PMC8716943",
+      "PMC7998608",
+      "PMC3818365",
+      "PMC6289879"
+    ]
+  },
+  {
+    "entity_id": "E00191",
+    "name": "trap-positive osteoclast-covered trabecular bone",
+    "type": "cell_type",
+    "synonyms": [
+      "TRAP-positive osteoclast-covered trabecular bone"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00192",
+    "name": "osteoclastic bone",
+    "type": "cell_type",
+    "synonyms": [
+      "osteoclastic bone"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00193",
+    "name": "t cell",
+    "type": "cell_type",
+    "synonyms": [
+      "T cell"
+    ],
+    "papers": [
+      "PMC11988870"
+    ]
+  },
+  {
+    "entity_id": "E00194",
+    "name": "macrophage",
+    "type": "cell_type",
+    "synonyms": [
+      "macrophages",
+      "Macrophage",
+      "macrophage"
+    ],
+    "papers": [
+      "PMC3890248",
+      "PMC11988870",
+      "PMC3570223",
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00195",
+    "name": "spheroids",
+    "type": "cell_type",
+    "synonyms": [
+      "spheroids"
+    ],
+    "papers": [
+      "PMC11988870"
+    ]
+  },
+  {
+    "entity_id": "E00196",
+    "name": "cancer stem cells",
+    "type": "cell_type",
+    "synonyms": [
+      "cancer stem cells"
+    ],
+    "papers": [
+      "PMC11988870"
+    ]
+  },
+  {
+    "entity_id": "E00197",
+    "name": "thyroid cancer cells",
+    "type": "cell_type",
+    "synonyms": [
+      "thyroid cancer cells"
+    ],
+    "papers": [
+      "PMC11988870"
+    ]
+  },
+  {
+    "entity_id": "E00198",
+    "name": "hematopoietic",
+    "type": "cell_type",
+    "synonyms": [
+      "hematopoietic"
+    ],
+    "papers": [
+      "PMC11988870"
+    ]
+  },
+  {
+    "entity_id": "E00199",
+    "name": "cardiomyocyte",
+    "type": "cell_type",
+    "synonyms": [
+      "cardiomyocyte",
+      "cardiomyocytes"
+    ],
+    "papers": [
+      "PMC11988870",
+      "PMC6387434"
+    ]
+  },
+  {
+    "entity_id": "E00200",
+    "name": "endothelial",
+    "type": "cell_type",
+    "synonyms": [
+      "endothelial"
+    ],
+    "papers": [
+      "PMC11988870"
+    ]
+  },
+  {
+    "entity_id": "E00201",
+    "name": "mitochondrial",
+    "type": "cell_type",
+    "synonyms": [
+      "mitochondrial",
+      "mitochondria"
+    ],
+    "papers": [
+      "PMC11988870",
+      "PMC11166944",
+      "PMC11166946",
+      "PMC7072278"
+    ]
+  },
+  {
+    "entity_id": "E00202",
+    "name": "nuclear",
+    "type": "cell_type",
+    "synonyms": [
+      "nuclear"
+    ],
+    "papers": [
+      "PMC11063234",
+      "PMC11988870",
+      "PMC9832585"
+    ]
+  },
+  {
+    "entity_id": "E00203",
+    "name": "adipose-derived stem cells",
+    "type": "cell_type",
+    "synonyms": [
+      "Adipose-Derived Stem Cells"
+    ],
+    "papers": [
+      "PMC7998608"
+    ]
+  },
+  {
+    "entity_id": "E00204",
+    "name": "culture",
+    "type": "cell_type",
+    "synonyms": [
+      "Culture"
+    ],
+    "papers": [
+      "PMC7998608"
+    ]
+  },
+  {
+    "entity_id": "E00205",
+    "name": "embryonic stem cells",
+    "type": "cell_type",
+    "synonyms": [
+      "embryonic stem cells"
+    ],
+    "papers": [
+      "PMC7998608"
+    ]
+  },
+  {
+    "entity_id": "E00206",
+    "name": "hascs",
+    "type": "cell_type",
+    "synonyms": [
+      "hASCs"
+    ],
+    "papers": [
+      "PMC7998608"
+    ]
+  },
+  {
+    "entity_id": "E00207",
+    "name": "dna",
+    "type": "cell_type",
+    "synonyms": [
+      "cdna",
+      "DNA"
+    ],
+    "papers": [
+      "PMC11166944",
+      "PMC10789781",
+      "PMC5826609",
+      "PMC5955502",
+      "PMC4033213",
+      "PMC5587110",
+      "PMC6366624",
+      "PMC11929063",
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00208",
+    "name": "mammalian tissue",
+    "type": "cell_type",
+    "synonyms": [
+      "mammalian tissue"
+    ],
+    "papers": [
+      "PMC5587110"
+    ]
+  },
+  {
+    "entity_id": "E00209",
+    "name": "cell cycle/apoptosis-related",
+    "type": "cell_type",
+    "synonyms": [
+      "cell cycle/apoptosis-related"
+    ],
+    "papers": [
+      "PMC8396460"
+    ]
+  },
+  {
+    "entity_id": "E00210",
+    "name": "cell lysates",
+    "type": "cell_type",
+    "synonyms": [
+      "Cell lysates"
+    ],
+    "papers": [
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00211",
+    "name": "cancellous bone volume/total",
+    "type": "cell_type",
+    "synonyms": [
+      "cancellous bone volume/total"
+    ],
+    "papers": [
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00212",
+    "name": "marrow cells",
+    "type": "cell_type",
+    "synonyms": [
+      "Marrow cells"
+    ],
+    "papers": [
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00213",
+    "name": "marrow-derived osteoprogenitors",
+    "type": "cell_type",
+    "synonyms": [
+      "marrow-derived osteoprogenitors"
+    ],
+    "papers": [
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00214",
+    "name": "membrane",
+    "type": "cell_type",
+    "synonyms": [
+      "membrane",
+      "Membrane"
+    ],
+    "papers": [
+      "PMC11500582",
+      "PMC4064004",
+      "PMC2998437",
+      "PMC4642138"
+    ]
+  },
+  {
+    "entity_id": "E00215",
+    "name": "transmembrane",
+    "type": "cell_type",
+    "synonyms": [
+      "transmembrane"
+    ],
+    "papers": [
+      "PMC11500582",
+      "PMC3289768"
+    ]
+  },
+  {
+    "entity_id": "E00216",
+    "name": "golgi",
+    "type": "cell_type",
+    "synonyms": [
+      "Golgi"
+    ],
+    "papers": [
+      "PMC11500582",
+      "PMC4064004"
+    ]
+  },
+  {
+    "entity_id": "E00217",
+    "name": "tgn",
+    "type": "cell_type",
+    "synonyms": [
+      "TGN"
+    ],
+    "papers": [
+      "PMC4642138"
+    ]
+  },
+  {
+    "entity_id": "E00218",
+    "name": "secretory",
+    "type": "cell_type",
+    "synonyms": [
+      "secretory"
+    ],
+    "papers": [
+      "PMC4642138"
+    ]
+  },
+  {
+    "entity_id": "E00219",
+    "name": "basal epidermal cells",
+    "type": "cell_type",
+    "synonyms": [
+      "basal epidermal cells"
+    ],
+    "papers": [
+      "PMC4642138"
+    ]
+  },
+  {
+    "entity_id": "E00220",
+    "name": "huvecs",
+    "type": "cell_type",
+    "synonyms": [
+      "HUVECs"
+    ],
+    "papers": [
+      "PMC6387434"
+    ]
+  },
+  {
+    "entity_id": "E00221",
+    "name": "iss",
+    "type": "cell_type",
+    "synonyms": [
+      "ISS"
+    ],
+    "papers": [
+      "PMC6387434"
+    ]
+  },
+  {
+    "entity_id": "E00222",
+    "name": "ribosomal",
+    "type": "cell_type",
+    "synonyms": [
+      "ribosomal"
+    ],
+    "papers": [
+      "PMC7072278"
+    ]
+  },
+  {
+    "entity_id": "E00223",
+    "name": "chromosomal",
+    "type": "cell_type",
+    "synonyms": [
+      "chromosomal",
+      "Chromosomal",
+      "chromosome"
+    ],
+    "papers": [
+      "PMC5761896",
+      "PMC10789781"
+    ]
+  },
+  {
+    "entity_id": "E00224",
+    "name": "cell nucleus",
+    "type": "cell_type",
+    "synonyms": [
+      "cell nucleus"
+    ],
+    "papers": [
+      "PMC10789781"
+    ]
+  },
+  {
+    "entity_id": "E00225",
+    "name": "nuclear chromatin architecture",
+    "type": "cell_type",
+    "synonyms": [
+      "nuclear chromatin architecture"
+    ],
+    "papers": [
+      "PMC10789781"
+    ]
+  },
+  {
+    "entity_id": "E00226",
+    "name": "chromatin",
+    "type": "cell_type",
+    "synonyms": [
+      "chromatin"
+    ],
+    "papers": [
+      "PMC10789781"
+    ]
+  },
+  {
+    "entity_id": "E00227",
+    "name": "frailty-like",
+    "type": "cell_type",
+    "synonyms": [
+      "frailty-like"
+    ],
+    "papers": [
+      "PMC11166946"
+    ]
+  },
+  {
+    "entity_id": "E00228",
+    "name": "3d microvessel cell cultures",
+    "type": "cell_type",
+    "synonyms": [
+      "3D microvessel cell cultures"
+    ],
+    "papers": [
+      "PMC11166944"
+    ]
+  },
+  {
+    "entity_id": "E00229",
+    "name": "marcescens",
+    "type": "cell_type",
+    "synonyms": [
+      "marcescens"
+    ],
+    "papers": [
+      "PMC7000411"
+    ]
+  },
+  {
+    "entity_id": "E00230",
+    "name": "actin cytoskeleton",
+    "type": "cell_type",
+    "synonyms": [
+      "actin cytoskeleton"
+    ],
+    "papers": [
+      "PMC8716943"
+    ]
+  },
+  {
+    "entity_id": "E00231",
+    "name": "vacuolar",
+    "type": "cell_type",
+    "synonyms": [
+      "vacuolar"
+    ],
+    "papers": [
+      "PMC8716943"
+    ]
+  },
+  {
+    "entity_id": "E00232",
+    "name": "auxin",
+    "type": "cell_type",
+    "synonyms": [
+      "auxin"
+    ],
+    "papers": [
+      "PMC8716943"
+    ]
+  },
+  {
+    "entity_id": "E00233",
+    "name": "actin",
+    "type": "cell_type",
+    "synonyms": [
+      "actin"
+    ],
+    "papers": [
+      "PMC8716943"
+    ]
+  },
+  {
+    "entity_id": "E00234",
+    "name": "f-actin",
+    "type": "cell_type",
+    "synonyms": [
+      "F-actin"
+    ],
+    "papers": [
+      "PMC7010715"
+    ]
+  },
+  {
+    "entity_id": "E00235",
+    "name": "chemically-fixed z",
+    "type": "cell_type",
+    "synonyms": [
+      "chemically-fixed Z."
+    ],
+    "papers": [
+      "PMC7010715"
+    ]
+  },
+  {
+    "entity_id": "E00236",
+    "name": "cauliflower mosaic virus (35s)",
+    "type": "cell_type",
+    "synonyms": [
+      "Cauliflower Mosaic Virus (35S)"
+    ],
+    "papers": [
+      "PMC7503278"
+    ]
+  },
+  {
+    "entity_id": "E00237",
+    "name": "thaliana lines",
+    "type": "cell_type",
+    "synonyms": [
+      "thaliana lines"
+    ],
+    "papers": [
+      "PMC7503278"
+    ]
+  },
+  {
+    "entity_id": "E00238",
+    "name": "root cell",
+    "type": "cell_type",
+    "synonyms": [
+      "root cell",
+      "root cells"
+    ],
+    "papers": [
+      "PMC7503278"
+    ]
+  },
+  {
+    "entity_id": "E00239",
+    "name": "endodermis",
+    "type": "cell_type",
+    "synonyms": [
+      "endodermis"
+    ],
+    "papers": [
+      "PMC7503278"
+    ]
+  },
+  {
+    "entity_id": "E00240",
+    "name": "actin-mediated root hair",
+    "type": "cell_type",
+    "synonyms": [
+      "actin-mediated root hair"
+    ],
+    "papers": [
+      "PMC8364238"
+    ]
+  },
+  {
+    "entity_id": "E00241",
+    "name": "aureus mscl",
+    "type": "cell_type",
+    "synonyms": [
+      "aureus MscL"
+    ],
+    "papers": [
+      "PMC2998437"
+    ]
+  },
+  {
+    "entity_id": "E00242",
+    "name": "mscl",
+    "type": "cell_type",
+    "synonyms": [
+      "MscL"
+    ],
+    "papers": [
+      "PMC3289768"
+    ]
+  },
+  {
+    "entity_id": "E00243",
+    "name": "lipid-interface",
+    "type": "cell_type",
+    "synonyms": [
+      "lipid-interface"
+    ],
+    "papers": [
+      "PMC3593973"
+    ]
+  },
+  {
+    "entity_id": "E00244",
+    "name": "rhizobium tropici",
+    "type": "cell_type",
+    "synonyms": [
+      "Rhizobium tropici"
+    ],
+    "papers": [
+      "PMC11127935"
+    ]
+  },
+  {
+    "entity_id": "E00245",
+    "name": "mammalian cells",
+    "type": "cell_type",
+    "synonyms": [
+      "mammalian cells"
+    ],
+    "papers": [
+      "PMC11930778"
+    ]
+  },
+  {
+    "entity_id": "E00246",
+    "name": "muscle mass",
+    "type": "cell_type",
+    "synonyms": [
+      "Muscle Mass."
+    ],
+    "papers": [
+      "PMC4118556"
+    ]
+  },
+  {
+    "entity_id": "E00247",
+    "name": "oil red o",
+    "type": "cell_type",
+    "synonyms": [
+      "Oil Red O"
+    ],
+    "papers": [
+      "PMC6915713"
+    ]
+  },
+  {
+    "entity_id": "E00248",
+    "name": "oro",
+    "type": "cell_type",
+    "synonyms": [
+      "ORO"
+    ],
+    "papers": [
+      "PMC6915713"
+    ]
+  },
+  {
+    "entity_id": "E00249",
+    "name": "hlu for 7",
+    "type": "cell_type",
+    "synonyms": [
+      "HLU for 7"
+    ],
+    "papers": [
+      "PMC8509868"
+    ]
+  },
+  {
+    "entity_id": "E00250",
+    "name": "marrow-flushed femoral cortical bone",
+    "type": "cell_type",
+    "synonyms": [
+      "marrow-flushed femoral cortical bone"
+    ],
+    "papers": [
+      "PMC8509868"
+    ]
+  },
+  {
+    "entity_id": "E00251",
+    "name": "synaptic",
+    "type": "cell_type",
+    "synonyms": [
+      "synaptic"
+    ],
+    "papers": [
+      "PMC5899691"
+    ]
+  },
+  {
+    "entity_id": "E00252",
+    "name": "hair cells",
+    "type": "cell_type",
+    "synonyms": [
+      "hair cell",
+      "hair cells",
+      "Hair cells"
+    ],
+    "papers": [
+      "PMC5899691",
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00253",
+    "name": "biocytin",
+    "type": "cell_type",
+    "synonyms": [
+      "biocytin"
+    ],
+    "papers": [
+      "PMC5899691"
+    ]
+  },
+  {
+    "entity_id": "E00254",
+    "name": "cell-afferent synaptic",
+    "type": "cell_type",
+    "synonyms": [
+      "cell-afferent synaptic"
+    ],
+    "papers": [
+      "PMC5899691"
+    ]
+  },
+  {
+    "entity_id": "E00255",
+    "name": "synaptic specializations",
+    "type": "cell_type",
+    "synonyms": [
+      "synaptic specializations"
+    ],
+    "papers": [
+      "PMC5899691"
+    ]
+  },
+  {
+    "entity_id": "E00256",
+    "name": "hair cell synaptic",
+    "type": "cell_type",
+    "synonyms": [
+      "hair cell synaptic"
+    ],
+    "papers": [
+      "PMC5899691"
+    ]
+  },
+  {
+    "entity_id": "E00257",
+    "name": "endoplasmic reticulum",
+    "type": "cell_type",
+    "synonyms": [
+      "Endoplasmic reticulum",
+      "endoplasmic reticulum"
+    ],
+    "papers": [
+      "PMC4618186",
+      "PMC4150462",
+      "PMC4064004",
+      "PMC3818365",
+      "PMC6289879"
+    ]
+  },
+  {
+    "entity_id": "E00258",
+    "name": "yeast cells",
+    "type": "cell_type",
+    "synonyms": [
+      "yeast cells"
+    ],
+    "papers": [
+      "PMC6289879"
+    ]
+  },
+  {
+    "entity_id": "E00259",
+    "name": "dsb",
+    "type": "cell_type",
+    "synonyms": [
+      "DSB"
+    ],
+    "papers": [
+      "PMC5116466"
+    ]
+  },
+  {
+    "entity_id": "E00260",
+    "name": "nuclei",
+    "type": "cell_type",
+    "synonyms": [
+      "nuclei"
+    ],
+    "papers": [
+      "PMC4033213"
+    ]
+  },
+  {
+    "entity_id": "E00261",
+    "name": "wild-type lines",
+    "type": "cell_type",
+    "synonyms": [
+      "wild-type lines"
+    ],
+    "papers": [
+      "PMC4033213"
+    ]
+  },
+  {
+    "entity_id": "E00262",
+    "name": "fork",
+    "type": "cell_type",
+    "synonyms": [
+      "fork"
+    ],
+    "papers": [
+      "PMC4033213"
+    ]
+  },
+  {
+    "entity_id": "E00263",
+    "name": "cytoskeletal",
+    "type": "cell_type",
+    "synonyms": [
+      "cytoskeletal"
+    ],
+    "papers": [
+      "PMC6062551",
+      "PMC5955502"
+    ]
+  },
+  {
+    "entity_id": "E00264",
+    "name": "genome",
+    "type": "cell_type",
+    "synonyms": [
+      "genome"
+    ],
+    "papers": [
+      "PMC5955502"
+    ]
+  },
+  {
+    "entity_id": "E00265",
+    "name": "sarcoplasmic reticulum ca2+ leak",
+    "type": "cell_type",
+    "synonyms": [
+      "sarcoplasmic reticulum Ca2+ leak"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00266",
+    "name": "sarco(endo)plasmic reticulum ca2+ atpase",
+    "type": "cell_type",
+    "synonyms": [
+      "sarco(endo)plasmic reticulum Ca2+ ATPase"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00267",
+    "name": "sarcoplasmic reticulum",
+    "type": "cell_type",
+    "synonyms": [
+      "sarcoplasmic reticulum"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00268",
+    "name": "cardiovascular progenitor cells",
+    "type": "cell_type",
+    "synonyms": [
+      "Cardiovascular progenitor cells"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00269",
+    "name": "cpcs",
+    "type": "cell_type",
+    "synonyms": [
+      "CPCs"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00270",
+    "name": "extracellular matrix",
+    "type": "cell_type",
+    "synonyms": [
+      "extracellular matrix"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00271",
+    "name": "mesendodermal",
+    "type": "cell_type",
+    "synonyms": [
+      "mesendodermal"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00272",
+    "name": "nci",
+    "type": "cell_type",
+    "synonyms": [
+      "NCI"
+    ],
+    "papers": [
+      "PMC9832585"
+    ]
+  },
+  {
+    "entity_id": "E00273",
+    "name": "tumor cells",
+    "type": "cell_type",
+    "synonyms": [
+      "tumor cells"
+    ],
+    "papers": [
+      "PMC9832585"
+    ]
+  },
+  {
+    "entity_id": "E00274",
+    "name": "bone marrow macrophages",
+    "type": "cell_type",
+    "synonyms": [
+      "bone marrow macrophages"
+    ],
+    "papers": [
+      "PMC3570223"
+    ]
+  },
+  {
+    "entity_id": "E00275",
+    "name": "monocytes",
+    "type": "cell_type",
+    "synonyms": [
+      "monocytes"
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00276",
+    "name": "hemocytes",
+    "type": "cell_type",
+    "synonyms": [
+      "hemocytes"
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00277",
+    "name": "mammalian macrophages",
+    "type": "cell_type",
+    "synonyms": [
+      "mammalian macrophages"
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00278",
+    "name": "bone marrow cells",
+    "type": "cell_type",
+    "synonyms": [
+      "bone marrow cell",
+      "bone marrow cells"
+    ],
+    "papers": [
+      "PMC3890248"
+    ]
+  },
+  {
+    "entity_id": "E00279",
+    "name": "macrophage cell",
+    "type": "cell_type",
+    "synonyms": [
+      "macrophage cell"
+    ],
+    "papers": [
+      "PMC3890248"
+    ]
+  },
+  {
+    "entity_id": "E00280",
+    "name": "immune cell",
+    "type": "cell_type",
+    "synonyms": [
+      "immune cell"
+    ],
+    "papers": [
+      "PMC5736159"
+    ]
+  },
+  {
+    "entity_id": "E00281",
+    "name": "splenic b cell",
+    "type": "cell_type",
+    "synonyms": [
+      "splenic B cell"
+    ],
+    "papers": [
+      "PMC5736159"
+    ]
+  },
+  {
+    "entity_id": "E00282",
+    "name": "junctional",
+    "type": "cell_type",
+    "synonyms": [
+      "junctional"
+    ],
+    "papers": [
+      "PMC5736159"
+    ]
+  },
+  {
+    "entity_id": "E00283",
+    "name": "b cell",
+    "type": "cell_type",
+    "synonyms": [
+      "B cell"
+    ],
+    "papers": [
+      "PMC5761896",
+      "PMC5826609"
+    ]
+  },
+  {
+    "entity_id": "E00284",
+    "name": "lymphocyte",
+    "type": "cell_type",
+    "synonyms": [
+      "b lymphocytes",
+      "lymphocyte"
+    ],
+    "papers": [
+      "PMC5826609"
+    ]
+  },
+  {
+    "entity_id": "E00285",
+    "name": "b-cell",
+    "type": "cell_type",
+    "synonyms": [
+      "B-cell"
+    ],
+    "papers": [
+      "PMC5826609"
+    ]
+  },
+  {
+    "entity_id": "E00286",
+    "name": "junctions",
+    "type": "cell_type",
+    "synonyms": [
+      "junctions"
+    ],
+    "papers": [
+      "PMC5826609"
+    ]
+  },
+  {
+    "entity_id": "E00287",
+    "name": "clones",
+    "type": "cell_type",
+    "synonyms": [
+      "clones"
+    ],
+    "papers": [
+      "PMC6366624"
+    ]
+  },
+  {
+    "entity_id": "E00288",
+    "name": "clonal",
+    "type": "cell_type",
+    "synonyms": [
+      "clonal"
+    ],
+    "papers": [
+      "PMC11929063"
+    ]
+  },
+  {
+    "entity_id": "E00289",
+    "name": "blood",
+    "type": "chemical",
+    "synonyms": [
+      "blood"
+    ],
+    "papers": [
+      "PMC11929063",
+      "PMC4136787"
+    ]
+  },
+  {
+    "entity_id": "E00290",
+    "name": "calcium",
+    "type": "chemical",
+    "synonyms": [
+      "Calcium",
+      "calcium"
+    ],
+    "papers": [
+      "PMC11988870",
+      "PMC7503278"
+    ]
+  },
+  {
+    "entity_id": "E00291",
+    "name": "lipid",
+    "type": "chemical",
+    "synonyms": [
+      "lipid",
+      "lipids"
+    ],
+    "papers": [
+      "PMC11988870",
+      "PMC4064004",
+      "PMC6915713"
+    ]
+  },
+  {
+    "entity_id": "E00292",
+    "name": "microspheres",
+    "type": "chemical",
+    "synonyms": [
+      "Microspheres",
+      "microspheres"
+    ],
+    "papers": [
+      "PMC7998608"
+    ]
+  },
+  {
+    "entity_id": "E00293",
+    "name": "body fluids",
+    "type": "chemical",
+    "synonyms": [
+      "body fluids"
+    ],
+    "papers": [
+      "PMC8396460"
+    ]
+  },
+  {
+    "entity_id": "E00294",
+    "name": "linear-energy-transfer",
+    "type": "chemical",
+    "synonyms": [
+      "linear-energy-transfer"
+    ],
+    "papers": [
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00295",
+    "name": "high-let 56fe ions",
+    "type": "chemical",
+    "synonyms": [
+      "high-LET 56Fe ions"
+    ],
+    "papers": [
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00296",
+    "name": "56fe",
+    "type": "chemical",
+    "synonyms": [
+      "56Fe"
+    ],
+    "papers": [
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00297",
+    "name": "superoxide",
+    "type": "chemical",
+    "synonyms": [
+      "superoxide"
+    ],
+    "papers": [
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00298",
+    "name": "high-let",
+    "type": "chemical",
+    "synonyms": [
+      "high-LET"
+    ],
+    "papers": [
+      "PMC10789781",
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00299",
+    "name": "high-let 56fe",
+    "type": "chemical",
+    "synonyms": [
+      "high-LET 56Fe"
+    ],
+    "papers": [
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00300",
+    "name": "let",
+    "type": "chemical",
+    "synonyms": [
+      "LET"
+    ],
+    "papers": [
+      "PMC5666799",
+      "PMC4033213"
+    ]
+  },
+  {
+    "entity_id": "E00301",
+    "name": "protons",
+    "type": "chemical",
+    "synonyms": [
+      "protons"
+    ],
+    "papers": [
+      "PMC6387434",
+      "PMC5666799",
+      "PMC7072278"
+    ]
+  },
+  {
+    "entity_id": "E00302",
+    "name": "sod",
+    "type": "chemical",
+    "synonyms": [
+      "SOD"
+    ],
+    "papers": [
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00303",
+    "name": "low-let",
+    "type": "chemical",
+    "synonyms": [
+      "low-LET"
+    ],
+    "papers": [
+      "PMC10789781",
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00304",
+    "name": "doses",
+    "type": "chemical",
+    "synonyms": [
+      "Doses"
+    ],
+    "papers": [
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00305",
+    "name": "syntaxin",
+    "type": "chemical",
+    "synonyms": [
+      "SYNTAXIN"
+    ],
+    "papers": [
+      "PMC11500582"
+    ]
+  },
+  {
+    "entity_id": "E00306",
+    "name": "amino acid",
+    "type": "chemical",
+    "synonyms": [
+      "amino acid"
+    ],
+    "papers": [
+      "PMC11930778",
+      "PMC11500582",
+      "PMC5761896"
+    ]
+  },
+  {
+    "entity_id": "E00307",
+    "name": "2,4-dichlorophenoxyacetic acid",
+    "type": "chemical",
+    "synonyms": [
+      "2,4-dichlorophenoxyacetic acid"
+    ],
+    "papers": [
+      "PMC4642138"
+    ]
+  },
+  {
+    "entity_id": "E00308",
+    "name": "auxin 3-indoleacetic acid",
+    "type": "chemical",
+    "synonyms": [
+      "auxin 3-indoleacetic acid"
+    ],
+    "papers": [
+      "PMC4642138"
+    ]
+  },
+  {
+    "entity_id": "E00309",
+    "name": "auxin",
+    "type": "chemical",
+    "synonyms": [
+      "auxin",
+      "Auxin"
+    ],
+    "papers": [
+      "PMC8716943",
+      "PMC4642138"
+    ]
+  },
+  {
+    "entity_id": "E00310",
+    "name": "gravistimulation",
+    "type": "chemical",
+    "synonyms": [
+      "gravistimulation"
+    ],
+    "papers": [
+      "PMC4642138"
+    ]
+  },
+  {
+    "entity_id": "E00311",
+    "name": "fungus",
+    "type": "chemical",
+    "synonyms": [
+      "fungus"
+    ],
+    "papers": [
+      "PMC3901686"
+    ]
+  },
+  {
+    "entity_id": "E00312",
+    "name": "fyn",
+    "type": "chemical",
+    "synonyms": [
+      "FYN"
+    ],
+    "papers": [
+      "PMC6387434"
+    ]
+  },
+  {
+    "entity_id": "E00313",
+    "name": "oxygen",
+    "type": "chemical",
+    "synonyms": [
+      "Oxygen"
+    ],
+    "papers": [
+      "PMC6387434"
+    ]
+  },
+  {
+    "entity_id": "E00314",
+    "name": "56fe’s",
+    "type": "chemical",
+    "synonyms": [
+      "56Fe’s"
+    ],
+    "papers": [
+      "PMC6387434"
+    ]
+  },
+  {
+    "entity_id": "E00315",
+    "name": "ions",
+    "type": "chemical",
+    "synonyms": [
+      "ions"
+    ],
+    "papers": [
+      "PMC6387434"
+    ]
+  },
+  {
+    "entity_id": "E00316",
+    "name": "long-term",
+    "type": "chemical",
+    "synonyms": [
+      "Long-Term"
+    ],
+    "papers": [
+      "PMC6387434"
+    ]
+  },
+  {
+    "entity_id": "E00317",
+    "name": "reactive oxygen species",
+    "type": "chemical",
+    "synonyms": [
+      "Reactive Oxygen Species",
+      "reactive oxygen species"
+    ],
+    "papers": [
+      "PMC6387434",
+      "PMC6289879",
+      "PMC8816950"
+    ]
+  },
+  {
+    "entity_id": "E00318",
+    "name": "ros",
+    "type": "chemical",
+    "synonyms": [
+      "ROS",
+      "rons"
+    ],
+    "papers": [
+      "PMC6387434",
+      "PMC6289879",
+      "PMC11271499",
+      "PMC8816950"
+    ]
+  },
+  {
+    "entity_id": "E00319",
+    "name": "iron",
+    "type": "chemical",
+    "synonyms": [
+      "iron"
+    ],
+    "papers": [
+      "PMC7072278"
+    ]
+  },
+  {
+    "entity_id": "E00320",
+    "name": "56fe, 28si",
+    "type": "chemical",
+    "synonyms": [
+      "56Fe, 28Si"
+    ],
+    "papers": [
+      "PMC10789781"
+    ]
+  },
+  {
+    "entity_id": "E00321",
+    "name": "covid-19",
+    "type": "chemical",
+    "synonyms": [
+      "COVID-19"
+    ],
+    "papers": [
+      "PMC10772081"
+    ]
+  },
+  {
+    "entity_id": "E00322",
+    "name": "antagomirs",
+    "type": "chemical",
+    "synonyms": [
+      "antagomirs"
+    ],
+    "papers": [
+      "PMC11166944"
+    ]
+  },
+  {
+    "entity_id": "E00323",
+    "name": "dsbs",
+    "type": "chemical",
+    "synonyms": [
+      "DSBs"
+    ],
+    "papers": [
+      "PMC11166944"
+    ]
+  },
+  {
+    "entity_id": "E00324",
+    "name": "jaxa",
+    "type": "chemical",
+    "synonyms": [
+      "JAXA"
+    ],
+    "papers": [
+      "PMC11166944"
+    ]
+  },
+  {
+    "entity_id": "E00325",
+    "name": "actin-disrupting",
+    "type": "chemical",
+    "synonyms": [
+      "actin-disrupting"
+    ],
+    "papers": [
+      "PMC8716943"
+    ]
+  },
+  {
+    "entity_id": "E00326",
+    "name": "brassinosteroids",
+    "type": "chemical",
+    "synonyms": [
+      "brassinosteroids",
+      "Brassinosteroids"
+    ],
+    "papers": [
+      "PMC7010715"
+    ]
+  },
+  {
+    "entity_id": "E00327",
+    "name": "gravitropism",
+    "type": "chemical",
+    "synonyms": [
+      "gravitropism"
+    ],
+    "papers": [
+      "PMC7010715"
+    ]
+  },
+  {
+    "entity_id": "E00328",
+    "name": "epi-brassinolide",
+    "type": "chemical",
+    "synonyms": [
+      "Epi-brassinolide"
+    ],
+    "papers": [
+      "PMC7010715"
+    ]
+  },
+  {
+    "entity_id": "E00329",
+    "name": "latrunculin b",
+    "type": "chemical",
+    "synonyms": [
+      "latrunculin B"
+    ],
+    "papers": [
+      "PMC7010715"
+    ]
+  },
+  {
+    "entity_id": "E00330",
+    "name": "latb",
+    "type": "chemical",
+    "synonyms": [
+      "LatB.",
+      "LatB"
+    ],
+    "papers": [
+      "PMC7010715"
+    ]
+  },
+  {
+    "entity_id": "E00331",
+    "name": "adenosine tri-phosphate",
+    "type": "chemical",
+    "synonyms": [
+      "adenosine tri-phosphate"
+    ],
+    "papers": [
+      "PMC7503278"
+    ]
+  },
+  {
+    "entity_id": "E00332",
+    "name": "atp",
+    "type": "chemical",
+    "synonyms": [
+      "ATP"
+    ],
+    "papers": [
+      "PMC7503278",
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00333",
+    "name": "glutamate",
+    "type": "chemical",
+    "synonyms": [
+      "glutamate"
+    ],
+    "papers": [
+      "PMC7503278"
+    ]
+  },
+  {
+    "entity_id": "E00334",
+    "name": "aluminum",
+    "type": "chemical",
+    "synonyms": [
+      "aluminum"
+    ],
+    "papers": [
+      "PMC7503278"
+    ]
+  },
+  {
+    "entity_id": "E00335",
+    "name": "cytoplasmic calcium",
+    "type": "chemical",
+    "synonyms": [
+      "Cytoplasmic calcium"
+    ],
+    "papers": [
+      "PMC7503278"
+    ]
+  },
+  {
+    "entity_id": "E00336",
+    "name": "spirrig",
+    "type": "chemical",
+    "synonyms": [
+      "SPIRRIG"
+    ],
+    "papers": [
+      "PMC8364238"
+    ]
+  },
+  {
+    "entity_id": "E00337",
+    "name": "carboxyl",
+    "type": "chemical",
+    "synonyms": [
+      "carboxyl"
+    ],
+    "papers": [
+      "PMC3289768"
+    ]
+  },
+  {
+    "entity_id": "E00338",
+    "name": "cb",
+    "type": "chemical",
+    "synonyms": [
+      "CB"
+    ],
+    "papers": [
+      "PMC3289768"
+    ]
+  },
+  {
+    "entity_id": "E00339",
+    "name": "tdps",
+    "type": "chemical",
+    "synonyms": [
+      "TDPs"
+    ],
+    "papers": [
+      "PMC11127935"
+    ]
+  },
+  {
+    "entity_id": "E00340",
+    "name": "liposomes",
+    "type": "chemical",
+    "synonyms": [
+      "liposomes"
+    ],
+    "papers": [
+      "PMC11127935"
+    ]
+  },
+  {
+    "entity_id": "E00341",
+    "name": "water",
+    "type": "chemical",
+    "synonyms": [
+      "water"
+    ],
+    "papers": [
+      "PMC11127935"
+    ]
+  },
+  {
+    "entity_id": "E00342",
+    "name": "solutes",
+    "type": "chemical",
+    "synonyms": [
+      "solutes"
+    ],
+    "papers": [
+      "PMC11127935"
+    ]
+  },
+  {
+    "entity_id": "E00343",
+    "name": "cytoplasmic",
+    "type": "chemical",
+    "synonyms": [
+      "cytoplasmic"
+    ],
+    "papers": [
+      "PMC11930778"
+    ]
+  },
+  {
+    "entity_id": "E00344",
+    "name": "cahs8",
+    "type": "chemical",
+    "synonyms": [
+      "CAHS8"
+    ],
+    "papers": [
+      "PMC11930778"
+    ]
+  },
+  {
+    "entity_id": "E00345",
+    "name": "glutathione",
+    "type": "chemical",
+    "synonyms": [
+      "glutathione"
+    ],
+    "papers": [
+      "PMC8816950"
+    ]
+  },
+  {
+    "entity_id": "E00346",
+    "name": "bioprotectants",
+    "type": "chemical",
+    "synonyms": [
+      "bioprotectants"
+    ],
+    "papers": [
+      "PMC8816950"
+    ]
+  },
+  {
+    "entity_id": "E00347",
+    "name": "hlu",
+    "type": "chemical",
+    "synonyms": [
+      "HLU"
+    ],
+    "papers": [
+      "PMC4118556",
+      "PMC8509868"
+    ]
+  },
+  {
+    "entity_id": "E00348",
+    "name": "fatty acid",
+    "type": "chemical",
+    "synonyms": [
+      "fatty acid"
+    ],
+    "papers": [
+      "PMC6915713"
+    ]
+  },
+  {
+    "entity_id": "E00349",
+    "name": "glucagon",
+    "type": "chemical",
+    "synonyms": [
+      "Glucagon"
+    ],
+    "papers": [
+      "PMC6915713"
+    ]
+  },
+  {
+    "entity_id": "E00350",
+    "name": "lipotoxic",
+    "type": "chemical",
+    "synonyms": [
+      "lipotoxic"
+    ],
+    "papers": [
+      "PMC6915713"
+    ]
+  },
+  {
+    "entity_id": "E00351",
+    "name": "hindlimb",
+    "type": "chemical",
+    "synonyms": [
+      "Hindlimb"
+    ],
+    "papers": [
+      "PMC6124165"
+    ]
+  },
+  {
+    "entity_id": "E00352",
+    "name": "bion-m1",
+    "type": "chemical",
+    "synonyms": [
+      "Bion-M1"
+    ],
+    "papers": [
+      "PMC5672023"
+    ]
+  },
+  {
+    "entity_id": "E00353",
+    "name": "synaptic body",
+    "type": "chemical",
+    "synonyms": [
+      "synaptic body"
+    ],
+    "papers": [
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00354",
+    "name": "hze",
+    "type": "chemical",
+    "synonyms": [
+      "HZE"
+    ],
+    "papers": [
+      "PMC5116466",
+      "PMC4033213"
+    ]
+  },
+  {
+    "entity_id": "E00355",
+    "name": "1gev fe",
+    "type": "chemical",
+    "synonyms": [
+      "1GeV Fe"
+    ],
+    "papers": [
+      "PMC4033213"
+    ]
+  },
+  {
+    "entity_id": "E00356",
+    "name": "2:1",
+    "type": "chemical",
+    "synonyms": [
+      "2:1"
+    ],
+    "papers": [
+      "PMC4033213"
+    ]
+  },
+  {
+    "entity_id": "E00357",
+    "name": "atr",
+    "type": "chemical",
+    "synonyms": [
+      "ATR"
+    ],
+    "papers": [
+      "PMC4033213"
+    ]
+  },
+  {
+    "entity_id": "E00358",
+    "name": "cytosine",
+    "type": "chemical",
+    "synonyms": [
+      "cytosine"
+    ],
+    "papers": [
+      "PMC5955502"
+    ]
+  },
+  {
+    "entity_id": "E00359",
+    "name": "spacex-4",
+    "type": "chemical",
+    "synonyms": [
+      "SpaceX-4"
+    ],
+    "papers": [
+      "PMC5955502"
+    ]
+  },
+  {
+    "entity_id": "E00360",
+    "name": "serca",
+    "type": "chemical",
+    "synonyms": [
+      "SERCA"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00361",
+    "name": "ionophore",
+    "type": "chemical",
+    "synonyms": [
+      "ionophore"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00362",
+    "name": "4-hne",
+    "type": "chemical",
+    "synonyms": [
+      "4-HNE"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00363",
+    "name": "ca2+",
+    "type": "chemical",
+    "synonyms": [
+      "Ca2+"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00364",
+    "name": "cytosol",
+    "type": "chemical",
+    "synonyms": [
+      "cytosol"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00365",
+    "name": "reactive oxygen/nitrogen species",
+    "type": "chemical",
+    "synonyms": [
+      "reactive oxygen/nitrogen species"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00366",
+    "name": "saline",
+    "type": "chemical",
+    "synonyms": [
+      "saline"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00367",
+    "name": "sr ca2+",
+    "type": "chemical",
+    "synonyms": [
+      "SR Ca2+"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00368",
+    "name": "des",
+    "type": "chemical",
+    "synonyms": [
+      "DES"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00369",
+    "name": "wnt/calcium",
+    "type": "chemical",
+    "synonyms": [
+      "Wnt/calcium"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00370",
+    "name": "allergy",
+    "type": "chemical",
+    "synonyms": [
+      "Allergy"
+    ],
+    "papers": [
+      "PMC9832585"
+    ]
+  },
+  {
+    "entity_id": "E00371",
+    "name": "lower-dose",
+    "type": "chemical",
+    "synonyms": [
+      "lower-dose"
+    ],
+    "papers": [
+      "PMC9832585"
+    ]
+  },
+  {
+    "entity_id": "E00372",
+    "name": "radioprotectors",
+    "type": "chemical",
+    "synonyms": [
+      "radioprotectors"
+    ],
+    "papers": [
+      "PMC9832585"
+    ]
+  },
+  {
+    "entity_id": "E00373",
+    "name": "mitigators",
+    "type": "chemical",
+    "synonyms": [
+      "mitigators"
+    ],
+    "papers": [
+      "PMC9832585"
+    ]
+  },
+  {
+    "entity_id": "E00374",
+    "name": "m-csf",
+    "type": "chemical",
+    "synonyms": [
+      "M-CSF"
+    ],
+    "papers": [
+      "PMC3570223"
+    ]
+  },
+  {
+    "entity_id": "E00375",
+    "name": "uridine cytidine",
+    "type": "chemical",
+    "synonyms": [
+      "Uridine cytidine"
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00376",
+    "name": "uck2",
+    "type": "chemical",
+    "synonyms": [
+      "Uck2"
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00377",
+    "name": "uridine cytidine kinase",
+    "type": "chemical",
+    "synonyms": [
+      "Uridine cytidine kinase"
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00378",
+    "name": "v-",
+    "type": "chemical",
+    "synonyms": [
+      "V-"
+    ],
+    "papers": [
+      "PMC5761896"
+    ]
+  },
+  {
+    "entity_id": "E00379",
+    "name": "d-",
+    "type": "chemical",
+    "synonyms": [
+      "D-"
+    ],
+    "papers": [
+      "PMC5761896"
+    ]
+  },
+  {
+    "entity_id": "E00380",
+    "name": "plasma fviii",
+    "type": "chemical",
+    "synonyms": [
+      "plasma FVIII"
+    ],
+    "papers": [
+      "PMC11929063"
+    ]
+  },
+  {
+    "entity_id": "E00381",
+    "name": "ag",
+    "type": "chemical",
+    "synonyms": [
+      "Ag"
+    ],
+    "papers": [
+      "PMC10996920"
+    ]
+  },
+  {
+    "entity_id": "E00382",
+    "name": "microgravity",
+    "type": "condition",
+    "synonyms": [
+      "microgravity",
+      "Microgravity"
+    ],
+    "papers": [
+      "PMC8509868",
+      "PMC10996920",
+      "PMC11988870",
+      "PMC4136787",
+      "PMC3901686",
+      "PMC7998608",
+      "PMC7000411",
+      "PMC7787258",
+      "PMC6915713",
+      "PMC3630201",
+      "PMC11271499",
+      "PMC5587110",
+      "PMC9267413",
+      "PMC8396460",
+      "PMC11579474"
+    ]
+  },
+  {
+    "entity_id": "E00383",
+    "name": "iss",
+    "type": "condition",
+    "synonyms": [
+      "ISS"
+    ],
+    "papers": [
+      "PMC6387434",
+      "PMC5826609",
+      "PMC6915713",
+      "PMC7829349",
+      "PMC5587110"
+    ]
+  },
+  {
+    "entity_id": "E00384",
+    "name": "international space station",
+    "type": "condition",
+    "synonyms": [
+      "International Space Station",
+      "international space station"
+    ],
+    "papers": [
+      "PMC6387434",
+      "PMC9400218",
+      "PMC5736159",
+      "PMC5826609",
+      "PMC7000411",
+      "PMC6915713",
+      "PMC5955502",
+      "PMC7829349",
+      "PMC11271499",
+      "PMC5587110",
+      "PMC11579474",
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00385",
+    "name": "spaceflight",
+    "type": "condition",
+    "synonyms": [
+      "space flight",
+      "Spaceflight",
+      "spaceflight"
+    ],
+    "papers": [
+      "PMC3890248",
+      "PMC6915713",
+      "PMC8441986",
+      "PMC11579474",
+      "PMC6387434",
+      "PMC10996920",
+      "PMC11166944",
+      "PMC9576569",
+      "PMC11271499",
+      "PMC6062551",
+      "PMC7072278",
+      "PMC5826609",
+      "PMC3901686",
+      "PMC7000411",
+      "PMC9267413",
+      "PMC8396460",
+      "PMC11166946",
+      "PMC3570223",
+      "PMC5672023",
+      "PMC5736159",
+      "PMC5460236",
+      "PMC5955502",
+      "PMC10285634",
+      "PMC4653813"
+    ]
+  },
+  {
+    "entity_id": "E00386",
+    "name": "radiation",
+    "type": "condition",
+    "synonyms": [
+      "Radiation",
+      "radiation"
+    ],
+    "papers": [
+      "PMC6387434",
+      "PMC5116466",
+      "PMC11166944",
+      "PMC7072278",
+      "PMC11063234",
+      "PMC10789781",
+      "PMC5666799",
+      "PMC9832585",
+      "PMC6915713",
+      "PMC4033213",
+      "PMC9267413",
+      "PMC6813909"
+    ]
+  },
+  {
+    "entity_id": "E00387",
+    "name": "space radiation",
+    "type": "condition",
+    "synonyms": [
+      "space radiation",
+      "Space Radiation",
+      "Space radiation"
+    ],
+    "papers": [
+      "PMC6387434",
+      "PMC11166944",
+      "PMC7072278",
+      "PMC11063234",
+      "PMC5666799",
+      "PMC9832585",
+      "PMC6915713"
+    ]
+  },
+  {
+    "entity_id": "E00388",
+    "name": "ionizing radiation",
+    "type": "condition",
+    "synonyms": [
+      "Ionizing radiation",
+      "ionizing radiation",
+      "Ionizing Radiation"
+    ],
+    "papers": [
+      "PMC7072278",
+      "PMC11063234",
+      "PMC10789781",
+      "PMC5666799",
+      "PMC9267413",
+      "PMC6813909"
+    ]
+  },
+  {
+    "entity_id": "E00389",
+    "name": "hypergravity",
+    "type": "condition",
+    "synonyms": [
+      "hypergravity"
+    ],
+    "papers": [
+      "PMC3901686",
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00390",
+    "name": "cosmic radiation",
+    "type": "condition",
+    "synonyms": [
+      "Cosmic Radiation",
+      "cosmic radiation"
+    ],
+    "papers": [
+      "PMC10789781",
+      "PMC11166944"
+    ]
+  },
+  {
+    "entity_id": "E00391",
+    "name": "microgravity_simulated",
+    "type": "condition",
+    "synonyms": [
+      "simulated microgravity"
+    ],
+    "papers": [
+      "PMC7000411"
+    ]
+  },
+  {
+    "entity_id": "E00392",
+    "name": "clinostat",
+    "type": "condition",
+    "synonyms": [
+      "clinostat"
+    ],
+    "papers": [
+      "PMC7010715"
+    ]
+  },
+  {
+    "entity_id": "E00393",
+    "name": "hlu",
+    "type": "condition",
+    "synonyms": [
+      "HLU"
+    ],
+    "papers": [
+      "PMC4118556",
+      "PMC8509868"
+    ]
+  },
+  {
+    "entity_id": "E00394",
+    "name": "hindlimb unloading",
+    "type": "condition",
+    "synonyms": [
+      "Hindlimb Unloading",
+      "hindlimb unloading"
+    ],
+    "papers": [
+      "PMC6124165",
+      "PMC8509868"
+    ]
+  },
+  {
+    "entity_id": "E00395",
+    "name": "centrifugation",
+    "type": "condition",
+    "synonyms": [
+      "centrifugation",
+      "Centrifugation"
+    ],
+    "papers": [
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00396",
+    "name": "parabolic flight",
+    "type": "condition",
+    "synonyms": [
+      "parabolic flight"
+    ],
+    "papers": [
+      "PMC6081456"
+    ]
+  },
+  {
+    "entity_id": "E00397",
+    "name": "osteolysis",
+    "type": "disease",
+    "synonyms": [
+      "Osteolysis"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00398",
+    "name": "osteocytic osteolysis",
+    "type": "disease",
+    "synonyms": [
+      "osteocytic osteolysis"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00399",
+    "name": "arrest",
+    "type": "disease",
+    "synonyms": [
+      "arrest"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00400",
+    "name": "osteogenesis",
+    "type": "disease",
+    "synonyms": [
+      "osteogenesis"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00401",
+    "name": "bone loss",
+    "type": "disease",
+    "synonyms": [
+      "bone loss"
+    ],
+    "papers": [
+      "PMC11988870",
+      "PMC5666799",
+      "PMC3630201",
+      "PMC10285634"
+    ]
+  },
+  {
+    "entity_id": "E00402",
+    "name": "lacunar osteolysis",
+    "type": "disease",
+    "synonyms": [
+      "lacunar osteolysis"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00403",
+    "name": "microgravity-induced osteocytic osteolysis",
+    "type": "disease",
+    "synonyms": [
+      "microgravity-induced osteocytic osteolysis"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00404",
+    "name": "osteoclastic",
+    "type": "disease",
+    "synonyms": [
+      "Osteoclastic"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00405",
+    "name": "osteocytic",
+    "type": "disease",
+    "synonyms": [
+      "Osteocytic"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00406",
+    "name": "lacunar",
+    "type": "disease",
+    "synonyms": [
+      "lacunar"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00407",
+    "name": "pelvic",
+    "type": "disease",
+    "synonyms": [
+      "pelvic"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00408",
+    "name": "infections",
+    "type": "disease",
+    "synonyms": [
+      "infections",
+      "infection"
+    ],
+    "papers": [
+      "PMC11988870",
+      "PMC7000411",
+      "PMC3901686",
+      "PMC7829349",
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00409",
+    "name": "cancer",
+    "type": "disease",
+    "synonyms": [
+      "cancers",
+      "cancer",
+      "Cancer"
+    ],
+    "papers": [
+      "PMC11988870",
+      "PMC9267413",
+      "PMC9832585"
+    ]
+  },
+  {
+    "entity_id": "E00410",
+    "name": "thyroid cancer",
+    "type": "disease",
+    "synonyms": [
+      "thyroid cancer"
+    ],
+    "papers": [
+      "PMC11988870"
+    ]
+  },
+  {
+    "entity_id": "E00411",
+    "name": "tumor",
+    "type": "disease",
+    "synonyms": [
+      "tumor",
+      "tumors"
+    ],
+    "papers": [
+      "PMC11988870",
+      "PMC9832585"
+    ]
+  },
+  {
+    "entity_id": "E00412",
+    "name": "cardiac diseases",
+    "type": "disease",
+    "synonyms": [
+      "cardiac diseases"
+    ],
+    "papers": [
+      "PMC11988870"
+    ]
+  },
+  {
+    "entity_id": "E00413",
+    "name": "myocardial infarctions",
+    "type": "disease",
+    "synonyms": [
+      "myocardial infarctions"
+    ],
+    "papers": [
+      "PMC11988870"
+    ]
+  },
+  {
+    "entity_id": "E00414",
+    "name": "hepatic",
+    "type": "disease",
+    "synonyms": [
+      "hepatic"
+    ],
+    "papers": [
+      "PMC11988870"
+    ]
+  },
+  {
+    "entity_id": "E00415",
+    "name": "adult stem-cell transplantations",
+    "type": "disease",
+    "synonyms": [
+      "adult stem-cell transplantations"
+    ],
+    "papers": [
+      "PMC7998608"
+    ]
+  },
+  {
+    "entity_id": "E00416",
+    "name": "lab",
+    "type": "disease",
+    "synonyms": [
+      "Lab"
+    ],
+    "papers": [
+      "PMC5666799",
+      "PMC5587110"
+    ]
+  },
+  {
+    "entity_id": "E00417",
+    "name": "atrophy",
+    "type": "disease",
+    "synonyms": [
+      "atrophy"
+    ],
+    "papers": [
+      "PMC8396460"
+    ]
+  },
+  {
+    "entity_id": "E00418",
+    "name": "cardiac dysfunction",
+    "type": "disease",
+    "synonyms": [
+      "cardiac dysfunction"
+    ],
+    "papers": [
+      "PMC8396460"
+    ]
+  },
+  {
+    "entity_id": "E00419",
+    "name": "nodules",
+    "type": "disease",
+    "synonyms": [
+      "nodules"
+    ],
+    "papers": [
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00420",
+    "name": "early-stage",
+    "type": "disease",
+    "synonyms": [
+      "early-stage"
+    ],
+    "papers": [
+      "PMC5460236"
+    ]
+  },
+  {
+    "entity_id": "E00421",
+    "name": "fatigue",
+    "type": "disease",
+    "synonyms": [
+      "fatigue"
+    ],
+    "papers": [
+      "PMC6813909",
+      "PMC6222041"
+    ]
+  },
+  {
+    "entity_id": "E00422",
+    "name": "specimens",
+    "type": "disease",
+    "synonyms": [
+      "specimens"
+    ],
+    "papers": [
+      "PMC6222041"
+    ]
+  },
+  {
+    "entity_id": "E00423",
+    "name": "brittle",
+    "type": "disease",
+    "synonyms": [
+      "brittle"
+    ],
+    "papers": [
+      "PMC6813909"
+    ]
+  },
+  {
+    "entity_id": "E00424",
+    "name": "embrittlement",
+    "type": "disease",
+    "synonyms": [
+      "embrittlement"
+    ],
+    "papers": [
+      "PMC6813909"
+    ]
+  },
+  {
+    "entity_id": "E00425",
+    "name": "5atrabd2b",
+    "type": "disease",
+    "synonyms": [
+      "5AtRabD2b"
+    ],
+    "papers": [
+      "PMC3040128"
+    ]
+  },
+  {
+    "entity_id": "E00426",
+    "name": "opportunistic infections",
+    "type": "disease",
+    "synonyms": [
+      "opportunistic infections"
+    ],
+    "papers": [
+      "PMC3901686"
+    ]
+  },
+  {
+    "entity_id": "E00427",
+    "name": "fungal infections",
+    "type": "disease",
+    "synonyms": [
+      "fungal infections"
+    ],
+    "papers": [
+      "PMC3901686"
+    ]
+  },
+  {
+    "entity_id": "E00428",
+    "name": "shock",
+    "type": "disease",
+    "synonyms": [
+      "shock"
+    ],
+    "papers": [
+      "PMC3901686"
+    ]
+  },
+  {
+    "entity_id": "E00429",
+    "name": "bacterial infection",
+    "type": "disease",
+    "synonyms": [
+      "bacterial infection"
+    ],
+    "papers": [
+      "PMC3901686"
+    ]
+  },
+  {
+    "entity_id": "E00430",
+    "name": "’ cardiac",
+    "type": "disease",
+    "synonyms": [
+      "’ cardiac"
+    ],
+    "papers": [
+      "PMC6387434"
+    ]
+  },
+  {
+    "entity_id": "E00431",
+    "name": "iss",
+    "type": "disease",
+    "synonyms": [
+      "ISS"
+    ],
+    "papers": [
+      "PMC6387434",
+      "PMC7829349"
+    ]
+  },
+  {
+    "entity_id": "E00432",
+    "name": "samples",
+    "type": "disease",
+    "synonyms": [
+      "samples"
+    ],
+    "papers": [
+      "PMC7072278"
+    ]
+  },
+  {
+    "entity_id": "E00433",
+    "name": "cancer hallmarks",
+    "type": "disease",
+    "synonyms": [
+      "cancer hallmarks"
+    ],
+    "papers": [
+      "PMC9267413"
+    ]
+  },
+  {
+    "entity_id": "E00434",
+    "name": "ovarian cancers",
+    "type": "disease",
+    "synonyms": [
+      "ovarian cancers"
+    ],
+    "papers": [
+      "PMC9267413"
+    ]
+  },
+  {
+    "entity_id": "E00435",
+    "name": "gynecological cancer",
+    "type": "disease",
+    "synonyms": [
+      "gynecological cancer"
+    ],
+    "papers": [
+      "PMC9267413"
+    ]
+  },
+  {
+    "entity_id": "E00436",
+    "name": "breast",
+    "type": "disease",
+    "synonyms": [
+      "breast"
+    ],
+    "papers": [
+      "PMC9267413"
+    ]
+  },
+  {
+    "entity_id": "E00437",
+    "name": "muscle atrophy",
+    "type": "disease",
+    "synonyms": [
+      "muscle atrophy",
+      "Muscle atrophy"
+    ],
+    "papers": [
+      "PMC4118556",
+      "PMC11271499",
+      "PMC9576569"
+    ]
+  },
+  {
+    "entity_id": "E00438",
+    "name": "radial layers",
+    "type": "disease",
+    "synonyms": [
+      "radial layers"
+    ],
+    "papers": [
+      "PMC10789781"
+    ]
+  },
+  {
+    "entity_id": "E00439",
+    "name": "disease",
+    "type": "disease",
+    "synonyms": [
+      "disease"
+    ],
+    "papers": [
+      "PMC10772081",
+      "PMC11166946"
+    ]
+  },
+  {
+    "entity_id": "E00440",
+    "name": "mitochondrial dysfunction",
+    "type": "disease",
+    "synonyms": [
+      "mitochondrial dysfunction"
+    ],
+    "papers": [
+      "PMC11166946"
+    ]
+  },
+  {
+    "entity_id": "E00441",
+    "name": "inflammation",
+    "type": "disease",
+    "synonyms": [
+      "inflammation"
+    ],
+    "papers": [
+      "PMC11166944",
+      "PMC11166946"
+    ]
+  },
+  {
+    "entity_id": "E00442",
+    "name": "frailty syndrome",
+    "type": "disease",
+    "synonyms": [
+      "Frailty syndrome"
+    ],
+    "papers": [
+      "PMC11166946"
+    ]
+  },
+  {
+    "entity_id": "E00443",
+    "name": "sarcopenia",
+    "type": "disease",
+    "synonyms": [
+      "sarcopenia"
+    ],
+    "papers": [
+      "PMC11166946"
+    ]
+  },
+  {
+    "entity_id": "E00444",
+    "name": "dsbs",
+    "type": "disease",
+    "synonyms": [
+      "DSBs"
+    ],
+    "papers": [
+      "PMC11166944"
+    ]
+  },
+  {
+    "entity_id": "E00445",
+    "name": "drosophila melanogaster infection",
+    "type": "disease",
+    "synonyms": [
+      "Drosophila melanogaster infection"
+    ],
+    "papers": [
+      "PMC7000411"
+    ]
+  },
+  {
+    "entity_id": "E00446",
+    "name": "immune disorders",
+    "type": "disease",
+    "synonyms": [
+      "immune disorders"
+    ],
+    "papers": [
+      "PMC7000411"
+    ]
+  },
+  {
+    "entity_id": "E00447",
+    "name": "primary root",
+    "type": "disease",
+    "synonyms": [
+      "Primary Root"
+    ],
+    "papers": [
+      "PMC8716943"
+    ]
+  },
+  {
+    "entity_id": "E00448",
+    "name": "ebl",
+    "type": "disease",
+    "synonyms": [
+      "eBL"
+    ],
+    "papers": [
+      "PMC7010715"
+    ]
+  },
+  {
+    "entity_id": "E00449",
+    "name": "cortex",
+    "type": "disease",
+    "synonyms": [
+      "cortex"
+    ],
+    "papers": [
+      "PMC7503278"
+    ]
+  },
+  {
+    "entity_id": "E00450",
+    "name": "bone, thymus, and spleen",
+    "type": "disease",
+    "synonyms": [
+      "bone, thymus, and spleen"
+    ],
+    "papers": [
+      "PMC11579474"
+    ]
+  },
+  {
+    "entity_id": "E00451",
+    "name": "thymus atrophy",
+    "type": "disease",
+    "synonyms": [
+      "Thymus atrophy"
+    ],
+    "papers": [
+      "PMC11579474"
+    ]
+  },
+  {
+    "entity_id": "E00452",
+    "name": "s. aureus",
+    "type": "disease",
+    "synonyms": [
+      "S. aureus"
+    ],
+    "papers": [
+      "PMC2998437"
+    ]
+  },
+  {
+    "entity_id": "E00453",
+    "name": "dehydration",
+    "type": "disease",
+    "synonyms": [
+      "dehydration"
+    ],
+    "papers": [
+      "PMC11930778",
+      "PMC8816950"
+    ]
+  },
+  {
+    "entity_id": "E00454",
+    "name": "anhydrobiosis",
+    "type": "disease",
+    "synonyms": [
+      "anhydrobiosis"
+    ],
+    "papers": [
+      "PMC11930778",
+      "PMC8816950"
+    ]
+  },
+  {
+    "entity_id": "E00455",
+    "name": "p",
+    "type": "disease",
+    "synonyms": [
+      "P."
+    ],
+    "papers": [
+      "PMC8816950"
+    ]
+  },
+  {
+    "entity_id": "E00456",
+    "name": "pws",
+    "type": "disease",
+    "synonyms": [
+      "PWS"
+    ],
+    "papers": [
+      "PMC4118556"
+    ]
+  },
+  {
+    "entity_id": "E00457",
+    "name": "muscle mass",
+    "type": "disease",
+    "synonyms": [
+      "muscle mass"
+    ],
+    "papers": [
+      "PMC4118556"
+    ]
+  },
+  {
+    "entity_id": "E00458",
+    "name": "bone deterioration",
+    "type": "disease",
+    "synonyms": [
+      "bone deterioration"
+    ],
+    "papers": [
+      "PMC4118556"
+    ]
+  },
+  {
+    "entity_id": "E00459",
+    "name": "femur",
+    "type": "disease",
+    "synonyms": [
+      "femur"
+    ],
+    "papers": [
+      "PMC4118556"
+    ]
+  },
+  {
+    "entity_id": "E00460",
+    "name": "cortical area",
+    "type": "disease",
+    "synonyms": [
+      "cortical area"
+    ],
+    "papers": [
+      "PMC4118556"
+    ]
+  },
+  {
+    "entity_id": "E00461",
+    "name": "liver disease",
+    "type": "disease",
+    "synonyms": [
+      "liver disease"
+    ],
+    "papers": [
+      "PMC6915713"
+    ]
+  },
+  {
+    "entity_id": "E00462",
+    "name": "gcg",
+    "type": "disease",
+    "synonyms": [
+      "GCG"
+    ],
+    "papers": [
+      "PMC6915713"
+    ]
+  },
+  {
+    "entity_id": "E00463",
+    "name": "ins",
+    "type": "disease",
+    "synonyms": [
+      "INS"
+    ],
+    "papers": [
+      "PMC6915713"
+    ]
+  },
+  {
+    "entity_id": "E00464",
+    "name": "disuse-induced bone loss",
+    "type": "disease",
+    "synonyms": [
+      "Disuse-induced bone loss"
+    ],
+    "papers": [
+      "PMC8509868"
+    ]
+  },
+  {
+    "entity_id": "E00465",
+    "name": "cord injury",
+    "type": "disease",
+    "synonyms": [
+      "cord injury"
+    ],
+    "papers": [
+      "PMC8509868"
+    ]
+  },
+  {
+    "entity_id": "E00466",
+    "name": "disuse-induced osteoporosis",
+    "type": "disease",
+    "synonyms": [
+      "disuse-induced osteoporosis"
+    ],
+    "papers": [
+      "PMC8509868"
+    ]
+  },
+  {
+    "entity_id": "E00467",
+    "name": "cardiovascular dysfunction",
+    "type": "disease",
+    "synonyms": [
+      "cardiovascular dysfunction"
+    ],
+    "papers": [
+      "PMC11063234"
+    ]
+  },
+  {
+    "entity_id": "E00468",
+    "name": "mechanoreceptors",
+    "type": "disease",
+    "synonyms": [
+      "mechanoreceptors"
+    ],
+    "papers": [
+      "PMC5672023"
+    ]
+  },
+  {
+    "entity_id": "E00469",
+    "name": "utricular otolith organ",
+    "type": "disease",
+    "synonyms": [
+      "Utricular Otolith Organ"
+    ],
+    "papers": [
+      "PMC5899691"
+    ]
+  },
+  {
+    "entity_id": "E00470",
+    "name": "head",
+    "type": "disease",
+    "synonyms": [
+      "head"
+    ],
+    "papers": [
+      "PMC5899691",
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00471",
+    "name": "afferents",
+    "type": "disease",
+    "synonyms": [
+      "Afferents",
+      "afferents"
+    ],
+    "papers": [
+      "PMC5899691",
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00472",
+    "name": "medial",
+    "type": "disease",
+    "synonyms": [
+      "medial"
+    ],
+    "papers": [
+      "PMC5899691"
+    ]
+  },
+  {
+    "entity_id": "E00473",
+    "name": "afferent behavior",
+    "type": "disease",
+    "synonyms": [
+      "afferent behavior"
+    ],
+    "papers": [
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00474",
+    "name": "head tilt",
+    "type": "disease",
+    "synonyms": [
+      "head tilt"
+    ],
+    "papers": [
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00475",
+    "name": "sections",
+    "type": "disease",
+    "synonyms": [
+      "sections"
+    ],
+    "papers": [
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00476",
+    "name": "loss of somatic heterozygosity",
+    "type": "disease",
+    "synonyms": [
+      "loss of somatic heterozygosity"
+    ],
+    "papers": [
+      "PMC4033213"
+    ]
+  },
+  {
+    "entity_id": "E00477",
+    "name": "rbe",
+    "type": "disease",
+    "synonyms": [
+      "RBE"
+    ],
+    "papers": [
+      "PMC4033213"
+    ]
+  },
+  {
+    "entity_id": "E00478",
+    "name": "skeletal muscle atrophy",
+    "type": "disease",
+    "synonyms": [
+      "skeletal muscle atrophy"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00479",
+    "name": "weakness",
+    "type": "disease",
+    "synonyms": [
+      "weakness"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00480",
+    "name": "serca dysfunction",
+    "type": "disease",
+    "synonyms": [
+      "SERCA dysfunction"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00481",
+    "name": "human cardiovascular progenitor cells (cpcs) were cultured aboard the international space station",
+    "type": "disease",
+    "synonyms": [
+      "human cardiovascular progenitor cells (CPCs) were cultured aboard the International Space Station."
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00482",
+    "name": "lmna",
+    "type": "disease",
+    "synonyms": [
+      "LMNA"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00483",
+    "name": "tnnt2",
+    "type": "disease",
+    "synonyms": [
+      "TNNT2"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00484",
+    "name": "mitigators",
+    "type": "disease",
+    "synonyms": [
+      "mitigators"
+    ],
+    "papers": [
+      "PMC9832585"
+    ]
+  },
+  {
+    "entity_id": "E00485",
+    "name": "caenorhabditis",
+    "type": "disease",
+    "synonyms": [
+      "Caenorhabditis"
+    ],
+    "papers": [
+      "PMC7829349"
+    ]
+  },
+  {
+    "entity_id": "E00486",
+    "name": "ehrlichia chaffeensis",
+    "type": "disease",
+    "synonyms": [
+      "Ehrlichia chaffeensis"
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00487",
+    "name": "tick-borne disease",
+    "type": "disease",
+    "synonyms": [
+      "tick-borne disease"
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00488",
+    "name": "chaffeensis",
+    "type": "disease",
+    "synonyms": [
+      "chaffeensis"
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00489",
+    "name": "anxiety",
+    "type": "disease",
+    "synonyms": [
+      "anxiety"
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00490",
+    "name": "swine fever",
+    "type": "disease",
+    "synonyms": [
+      "swine fever"
+    ],
+    "papers": [
+      "PMC11046949"
+    ]
+  },
+  {
+    "entity_id": "E00491",
+    "name": "b-cell cdr3 amino acid",
+    "type": "disease",
+    "synonyms": [
+      "B-cell CDR3 amino acid"
+    ],
+    "papers": [
+      "PMC5761896"
+    ]
+  },
+  {
+    "entity_id": "E00492",
+    "name": "b-cell",
+    "type": "disease",
+    "synonyms": [
+      "B-cell"
+    ],
+    "papers": [
+      "PMC5761896"
+    ]
+  },
+  {
+    "entity_id": "E00493",
+    "name": "hemophilia a. a",
+    "type": "disease",
+    "synonyms": [
+      "hemophilia A. A"
+    ],
+    "papers": [
+      "PMC11929063"
+    ]
+  },
+  {
+    "entity_id": "E00494",
+    "name": "blood loss",
+    "type": "disease",
+    "synonyms": [
+      "blood loss"
+    ],
+    "papers": [
+      "PMC11929063"
+    ]
+  },
+  {
+    "entity_id": "E00495",
+    "name": "tak-754-related adverse",
+    "type": "disease",
+    "synonyms": [
+      "TAK-754-related adverse"
+    ],
+    "papers": [
+      "PMC11929063"
+    ]
+  },
+  {
+    "entity_id": "E00496",
+    "name": "hepatocellular carcinoma",
+    "type": "disease",
+    "synonyms": [
+      "hepatocellular carcinoma"
+    ],
+    "papers": [
+      "PMC11929063"
+    ]
+  },
+  {
+    "entity_id": "E00497",
+    "name": "tak-754",
+    "type": "disease",
+    "synonyms": [
+      "TAK-754"
+    ],
+    "papers": [
+      "PMC11929063"
+    ]
+  },
+  {
+    "entity_id": "E00498",
+    "name": "ag",
+    "type": "disease",
+    "synonyms": [
+      "Ag"
+    ],
+    "papers": [
+      "PMC10996920"
+    ]
+  },
+  {
+    "entity_id": "E00499",
+    "name": "bone",
+    "type": "tissue",
+    "synonyms": [
+      "bone",
+      "bones",
+      "Bone"
+    ],
+    "papers": [
+      "PMC6124165",
+      "PMC11988870",
+      "PMC5666799",
+      "PMC6222041",
+      "PMC10285634",
+      "PMC3630201",
+      "PMC4118556",
+      "PMC8509868",
+      "PMC6813909",
+      "PMC11579474"
+    ]
+  },
+  {
+    "entity_id": "E00500",
+    "name": "tissue",
+    "type": "tissue",
+    "synonyms": [
+      "tissue",
+      "tissues"
+    ],
+    "papers": [
+      "PMC10996920",
+      "PMC11988870",
+      "PMC9832585",
+      "PMC5666799",
+      "PMC5736159",
+      "PMC3630201",
+      "PMC3558598",
+      "PMC11929063",
+      "PMC10772081"
+    ]
+  },
+  {
+    "entity_id": "E00501",
+    "name": "mineral",
+    "type": "tissue",
+    "synonyms": [
+      "mineral"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00502",
+    "name": "pelvis",
+    "type": "tissue",
+    "synonyms": [
+      "pelvis"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00503",
+    "name": "canalicular",
+    "type": "tissue",
+    "synonyms": [
+      "canalicular"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00504",
+    "name": "osteocytic",
+    "type": "tissue",
+    "synonyms": [
+      "osteocytic"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00505",
+    "name": "femoral",
+    "type": "tissue",
+    "synonyms": [
+      "femoral"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00506",
+    "name": "osteoclastic",
+    "type": "tissue",
+    "synonyms": [
+      "osteoclastic"
+    ],
+    "papers": [
+      "PMC3630201"
+    ]
+  },
+  {
+    "entity_id": "E00507",
+    "name": "organ",
+    "type": "tissue",
+    "synonyms": [
+      "organs",
+      "organ"
+    ],
+    "papers": [
+      "PMC7503278",
+      "PMC11988870",
+      "PMC7998608",
+      "PMC10772081",
+      "PMC4642138"
+    ]
+  },
+  {
+    "entity_id": "E00508",
+    "name": "cardiac",
+    "type": "tissue",
+    "synonyms": [
+      "Cardiac",
+      "cardiac"
+    ],
+    "papers": [
+      "PMC6387434",
+      "PMC11988870",
+      "PMC7787258",
+      "PMC5955502",
+      "PMC8396460",
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00509",
+    "name": "heart",
+    "type": "tissue",
+    "synonyms": [
+      "heart",
+      "Heart"
+    ],
+    "papers": [
+      "PMC8396460",
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00510",
+    "name": "cardiovascular",
+    "type": "tissue",
+    "synonyms": [
+      "cardiovascular"
+    ],
+    "papers": [
+      "PMC11063234",
+      "PMC6387434",
+      "PMC8396460"
+    ]
+  },
+  {
+    "entity_id": "E00511",
+    "name": "cardiac tissue",
+    "type": "tissue",
+    "synonyms": [
+      "cardiac tissue"
+    ],
+    "papers": [
+      "PMC8396460"
+    ]
+  },
+  {
+    "entity_id": "E00512",
+    "name": "skeletal",
+    "type": "tissue",
+    "synonyms": [
+      "Skeletal",
+      "skeletal"
+    ],
+    "papers": [
+      "PMC5666799",
+      "PMC11579474"
+    ]
+  },
+  {
+    "entity_id": "E00513",
+    "name": "cancellous",
+    "type": "tissue",
+    "synonyms": [
+      "cancellous"
+    ],
+    "papers": [
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00514",
+    "name": "vertebrae",
+    "type": "tissue",
+    "synonyms": [
+      "vertebrae"
+    ],
+    "papers": [
+      "PMC6222041"
+    ]
+  },
+  {
+    "entity_id": "E00515",
+    "name": "spinal tissue",
+    "type": "tissue",
+    "synonyms": [
+      "Spinal tissue"
+    ],
+    "papers": [
+      "PMC6813909"
+    ]
+  },
+  {
+    "entity_id": "E00516",
+    "name": "root",
+    "type": "tissue",
+    "synonyms": [
+      "Root",
+      "roots",
+      "root"
+    ],
+    "papers": [
+      "PMC11500582",
+      "PMC7503278",
+      "PMC8716943",
+      "PMC5387210",
+      "PMC7010715",
+      "PMC4642138"
+    ]
+  },
+  {
+    "entity_id": "E00517",
+    "name": "gravitropism",
+    "type": "tissue",
+    "synonyms": [
+      "Gravitropism"
+    ],
+    "papers": [
+      "PMC4642138"
+    ]
+  },
+  {
+    "entity_id": "E00518",
+    "name": "columella",
+    "type": "tissue",
+    "synonyms": [
+      "columella"
+    ],
+    "papers": [
+      "PMC7503278",
+      "PMC4642138"
+    ]
+  },
+  {
+    "entity_id": "E00519",
+    "name": "lung",
+    "type": "tissue",
+    "synonyms": [
+      "lung"
+    ],
+    "papers": [
+      "PMC9267413"
+    ]
+  },
+  {
+    "entity_id": "E00520",
+    "name": "thyroid",
+    "type": "tissue",
+    "synonyms": [
+      "thyroid"
+    ],
+    "papers": [
+      "PMC9267413"
+    ]
+  },
+  {
+    "entity_id": "E00521",
+    "name": "muscle",
+    "type": "tissue",
+    "synonyms": [
+      "Muscle",
+      "muscle"
+    ],
+    "papers": [
+      "PMC4118556",
+      "PMC11271499",
+      "PMC9576569",
+      "PMC10285634"
+    ]
+  },
+  {
+    "entity_id": "E00522",
+    "name": "liver",
+    "type": "tissue",
+    "synonyms": [
+      "liver",
+      "livers"
+    ],
+    "papers": [
+      "PMC11929063",
+      "PMC6915713",
+      "PMC9576569",
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00523",
+    "name": "space-flown",
+    "type": "tissue",
+    "synonyms": [
+      "space-flown"
+    ],
+    "papers": [
+      "PMC7000411"
+    ]
+  },
+  {
+    "entity_id": "E00524",
+    "name": "gravistimulus",
+    "type": "tissue",
+    "synonyms": [
+      "gravistimulus"
+    ],
+    "papers": [
+      "PMC7010715"
+    ]
+  },
+  {
+    "entity_id": "E00525",
+    "name": "barrel medic",
+    "type": "tissue",
+    "synonyms": [
+      "barrel medic"
+    ],
+    "papers": [
+      "PMC7010715"
+    ]
+  },
+  {
+    "entity_id": "E00526",
+    "name": "hypocotyls",
+    "type": "tissue",
+    "synonyms": [
+      "hypocotyls"
+    ],
+    "papers": [
+      "PMC7010715"
+    ]
+  },
+  {
+    "entity_id": "E00527",
+    "name": "epidermis",
+    "type": "tissue",
+    "synonyms": [
+      "epidermis"
+    ],
+    "papers": [
+      "PMC7503278"
+    ]
+  },
+  {
+    "entity_id": "E00528",
+    "name": "trichoblasts",
+    "type": "tissue",
+    "synonyms": [
+      "trichoblasts"
+    ],
+    "papers": [
+      "PMC7503278"
+    ]
+  },
+  {
+    "entity_id": "E00529",
+    "name": "thymus",
+    "type": "tissue",
+    "synonyms": [
+      "thymus",
+      "Thymus"
+    ],
+    "papers": [
+      "PMC11579474"
+    ]
+  },
+  {
+    "entity_id": "E00530",
+    "name": "spleen",
+    "type": "tissue",
+    "synonyms": [
+      "spleen"
+    ],
+    "papers": [
+      "PMC10996920",
+      "PMC11579474"
+    ]
+  },
+  {
+    "entity_id": "E00531",
+    "name": "mscl channel stoichiometries",
+    "type": "tissue",
+    "synonyms": [
+      "MscL channel stoichiometries"
+    ],
+    "papers": [
+      "PMC2998437"
+    ]
+  },
+  {
+    "entity_id": "E00532",
+    "name": "mscl channel",
+    "type": "tissue",
+    "synonyms": [
+      "MscL channel"
+    ],
+    "papers": [
+      "PMC3593973"
+    ]
+  },
+  {
+    "entity_id": "E00533",
+    "name": "extracellular",
+    "type": "tissue",
+    "synonyms": [
+      "extracellular"
+    ],
+    "papers": [
+      "PMC11127935"
+    ]
+  },
+  {
+    "entity_id": "E00534",
+    "name": "body",
+    "type": "tissue",
+    "synonyms": [
+      "body"
+    ],
+    "papers": [
+      "PMC4118556"
+    ]
+  },
+  {
+    "entity_id": "E00535",
+    "name": "quadrupedal",
+    "type": "tissue",
+    "synonyms": [
+      "quadrupedal"
+    ],
+    "papers": [
+      "PMC4118556"
+    ]
+  },
+  {
+    "entity_id": "E00536",
+    "name": "hindlimb",
+    "type": "tissue",
+    "synonyms": [
+      "hind limb",
+      "hindlimb"
+    ],
+    "papers": [
+      "PMC4118556",
+      "PMC8509868",
+      "PMC4653813"
+    ]
+  },
+  {
+    "entity_id": "E00537",
+    "name": "hindlimb bone mineral",
+    "type": "tissue",
+    "synonyms": [
+      "hindlimb bone mineral"
+    ],
+    "papers": [
+      "PMC4118556"
+    ]
+  },
+  {
+    "entity_id": "E00538",
+    "name": "spinal cord",
+    "type": "tissue",
+    "synonyms": [
+      "spinal cord"
+    ],
+    "papers": [
+      "PMC8509868"
+    ]
+  },
+  {
+    "entity_id": "E00539",
+    "name": "cardiovascular tissues",
+    "type": "tissue",
+    "synonyms": [
+      "cardiovascular tissues"
+    ],
+    "papers": [
+      "PMC11063234"
+    ]
+  },
+  {
+    "entity_id": "E00540",
+    "name": "vestibular",
+    "type": "tissue",
+    "synonyms": [
+      "Vestibular"
+    ],
+    "papers": [
+      "PMC5672023"
+    ]
+  },
+  {
+    "entity_id": "E00541",
+    "name": "statocyst",
+    "type": "tissue",
+    "synonyms": [
+      "statocyst"
+    ],
+    "papers": [
+      "PMC5672023"
+    ]
+  },
+  {
+    "entity_id": "E00542",
+    "name": "utricle",
+    "type": "tissue",
+    "synonyms": [
+      "utricle"
+    ],
+    "papers": [
+      "PMC5899691"
+    ]
+  },
+  {
+    "entity_id": "E00543",
+    "name": "neural innervation",
+    "type": "tissue",
+    "synonyms": [
+      "neural innervation"
+    ],
+    "papers": [
+      "PMC5899691"
+    ]
+  },
+  {
+    "entity_id": "E00544",
+    "name": "epithelial",
+    "type": "tissue",
+    "synonyms": [
+      "epithelial"
+    ],
+    "papers": [
+      "PMC5899691"
+    ]
+  },
+  {
+    "entity_id": "E00545",
+    "name": "striola",
+    "type": "tissue",
+    "synonyms": [
+      "striola"
+    ],
+    "papers": [
+      "PMC5899691",
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00546",
+    "name": "medial",
+    "type": "tissue",
+    "synonyms": [
+      "medial"
+    ],
+    "papers": [
+      "PMC5899691"
+    ]
+  },
+  {
+    "entity_id": "E00547",
+    "name": "macular",
+    "type": "tissue",
+    "synonyms": [
+      "macular"
+    ],
+    "papers": [
+      "PMC5899691"
+    ]
+  },
+  {
+    "entity_id": "E00548",
+    "name": "synapse",
+    "type": "tissue",
+    "synonyms": [
+      "synapse"
+    ],
+    "papers": [
+      "PMC5899691"
+    ]
+  },
+  {
+    "entity_id": "E00549",
+    "name": "afferent",
+    "type": "tissue",
+    "synonyms": [
+      "efferent",
+      "afferent"
+    ],
+    "papers": [
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00550",
+    "name": "medial extrastriola macula",
+    "type": "tissue",
+    "synonyms": [
+      "medial extrastriola macula"
+    ],
+    "papers": [
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00551",
+    "name": "lung tissue",
+    "type": "tissue",
+    "synonyms": [
+      "lung tissue"
+    ],
+    "papers": [
+      "PMC5955502"
+    ]
+  },
+  {
+    "entity_id": "E00552",
+    "name": "skeletal muscle",
+    "type": "tissue",
+    "synonyms": [
+      "skeletal muscle"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00553",
+    "name": "soleus",
+    "type": "tissue",
+    "synonyms": [
+      "soleus"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00554",
+    "name": "soleus muscles",
+    "type": "tissue",
+    "synonyms": [
+      "soleus muscle",
+      "soleus muscles"
+    ],
+    "papers": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "entity_id": "E00555",
+    "name": "endothelial-like tube",
+    "type": "tissue",
+    "synonyms": [
+      "endothelial-like tube",
+      "endothelial-like tubes"
+    ],
+    "papers": [
+      "PMC6062551"
+    ]
+  },
+  {
+    "entity_id": "E00556",
+    "name": "normal tissues",
+    "type": "tissue",
+    "synonyms": [
+      "normal tissues"
+    ],
+    "papers": [
+      "PMC9832585"
+    ]
+  },
+  {
+    "entity_id": "E00557",
+    "name": "intracellular",
+    "type": "tissue",
+    "synonyms": [
+      "intracellular"
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00558",
+    "name": "fat body",
+    "type": "tissue",
+    "synonyms": [
+      "fat body"
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00559",
+    "name": "eyes",
+    "type": "tissue",
+    "synonyms": [
+      "eyes"
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00560",
+    "name": "salivary glands",
+    "type": "tissue",
+    "synonyms": [
+      "salivary glands"
+    ],
+    "papers": [
+      "PMC3558598"
+    ]
+  },
+  {
+    "entity_id": "E00561",
+    "name": "seed",
+    "type": "tissue",
+    "synonyms": [
+      "seed"
+    ],
+    "papers": [
+      "PMC3890248"
+    ]
+  },
+  {
+    "entity_id": "E00562",
+    "name": "splenic tissue",
+    "type": "tissue",
+    "synonyms": [
+      "splenic tissue"
+    ],
+    "papers": [
+      "PMC5761896"
+    ]
+  },
+  {
+    "entity_id": "E00563",
+    "name": "vascular",
+    "type": "process",
+    "synonyms": [
+      "vascular"
+    ],
+    "papers": [
+      "PMC11988870"
+    ]
+  },
+  {
+    "entity_id": "E00564",
+    "name": "network",
+    "type": "process",
+    "synonyms": [
+      "network"
+    ],
+    "papers": [
+      "PMC7998608"
+    ]
+  },
+  {
+    "entity_id": "E00565",
+    "name": "lab",
+    "type": "process",
+    "synonyms": [
+      "Lab"
+    ],
+    "papers": [
+      "PMC5587110"
+    ]
+  },
+  {
+    "entity_id": "E00566",
+    "name": "skeletal health",
+    "type": "process",
+    "synonyms": [
+      "skeletal health"
+    ],
+    "papers": [
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00567",
+    "name": "cortical",
+    "type": "process",
+    "synonyms": [
+      "cortical"
+    ],
+    "papers": [
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00568",
+    "name": "vertebrae",
+    "type": "process",
+    "synonyms": [
+      "vertebrae"
+    ],
+    "papers": [
+      "PMC6222041"
+    ]
+  },
+  {
+    "entity_id": "E00569",
+    "name": "pollen",
+    "type": "process",
+    "synonyms": [
+      "pollen"
+    ],
+    "papers": [
+      "PMC3040128"
+    ]
+  },
+  {
+    "entity_id": "E00570",
+    "name": "lateral root",
+    "type": "process",
+    "synonyms": [
+      "Lateral Root",
+      "lateral root"
+    ],
+    "papers": [
+      "PMC4642138"
+    ]
+  },
+  {
+    "entity_id": "E00571",
+    "name": "trans-golgi network",
+    "type": "process",
+    "synonyms": [
+      "trans-Golgi network",
+      "Trans-Golgi Network"
+    ],
+    "papers": [
+      "PMC4642138"
+    ]
+  },
+  {
+    "entity_id": "E00572",
+    "name": "wall vessel",
+    "type": "process",
+    "synonyms": [
+      "wall vessel"
+    ],
+    "papers": [
+      "PMC7000411"
+    ]
+  },
+  {
+    "entity_id": "E00573",
+    "name": "actin network",
+    "type": "process",
+    "synonyms": [
+      "actin network"
+    ],
+    "papers": [
+      "PMC8716943"
+    ]
+  },
+  {
+    "entity_id": "E00574",
+    "name": "hair",
+    "type": "process",
+    "synonyms": [
+      "hair"
+    ],
+    "papers": [
+      "PMC8364238"
+    ]
+  },
+  {
+    "entity_id": "E00575",
+    "name": "mscl",
+    "type": "process",
+    "synonyms": [
+      "MscL"
+    ],
+    "papers": [
+      "PMC3289768"
+    ]
+  },
+  {
+    "entity_id": "E00576",
+    "name": "trabecular bone",
+    "type": "process",
+    "synonyms": [
+      "trabecular bone"
+    ],
+    "papers": [
+      "PMC4118556"
+    ]
+  },
+  {
+    "entity_id": "E00577",
+    "name": "femur midshaft",
+    "type": "process",
+    "synonyms": [
+      "femur midshaft"
+    ],
+    "papers": [
+      "PMC4118556"
+    ]
+  },
+  {
+    "entity_id": "E00578",
+    "name": "bone morphogenetic protein type 1a receptor",
+    "type": "process",
+    "synonyms": [
+      "Bone Morphogenetic Protein Type 1A Receptor"
+    ],
+    "papers": [
+      "PMC6124165"
+    ]
+  },
+  {
+    "entity_id": "E00579",
+    "name": "cortical bone",
+    "type": "process",
+    "synonyms": [
+      "cortical bone",
+      "cortical bone’s"
+    ],
+    "papers": [
+      "PMC8509868"
+    ]
+  },
+  {
+    "entity_id": "E00580",
+    "name": "vestibular",
+    "type": "process",
+    "synonyms": [
+      "vestibular"
+    ],
+    "papers": [
+      "PMC5899691",
+      "PMC5672023"
+    ]
+  },
+  {
+    "entity_id": "E00581",
+    "name": "afferent nerve fibers",
+    "type": "process",
+    "synonyms": [
+      "Afferent nerve fibers"
+    ],
+    "papers": [
+      "PMC5899691"
+    ]
+  },
+  {
+    "entity_id": "E00582",
+    "name": "lateral extra-striolar",
+    "type": "process",
+    "synonyms": [
+      "lateral extra-striolar"
+    ],
+    "papers": [
+      "PMC5899691"
+    ]
+  },
+  {
+    "entity_id": "E00583",
+    "name": "hair bundles",
+    "type": "process",
+    "synonyms": [
+      "hair bundle",
+      "hair bundles"
+    ],
+    "papers": [
+      "PMC5899691"
+    ]
+  },
+  {
+    "entity_id": "E00584",
+    "name": "utricular organ",
+    "type": "process",
+    "synonyms": [
+      "utricular organ"
+    ],
+    "papers": [
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00585",
+    "name": "utricular afferents",
+    "type": "process",
+    "synonyms": [
+      "utricular afferents"
+    ],
+    "papers": [
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00586",
+    "name": "efferent vestibular",
+    "type": "process",
+    "synonyms": [
+      "efferent vestibular"
+    ],
+    "papers": [
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00587",
+    "name": "canal afferent",
+    "type": "process",
+    "synonyms": [
+      "canal afferent"
+    ],
+    "papers": [
+      "PMC6204554"
+    ]
+  },
+  {
+    "entity_id": "E00588",
+    "name": "splenic heavy-chain",
+    "type": "process",
+    "synonyms": [
+      "splenic heavy-chain"
+    ],
+    "papers": [
+      "PMC6366624"
+    ]
+  },
+  {
+    "entity_id": "E00589",
+    "name": "bone marrow",
+    "type": "process",
+    "synonyms": [
+      "bone marrow"
+    ],
+    "papers": [
+      "PMC10996920"
+    ]
+  },
+  {
+    "entity_id": "E00590",
+    "name": "rt-pcr",
+    "type": "assay",
+    "synonyms": [
+      "RT-PCR"
+    ],
+    "papers": [
+      "PMC5666799"
+    ]
+  },
+  {
+    "entity_id": "E00591",
+    "name": "microarray",
+    "type": "assay",
+    "synonyms": [
+      "Microarray",
+      "microarray"
+    ],
+    "papers": [
+      "PMC6387434",
+      "PMC3570223"
+    ]
+  },
+  {
+    "entity_id": "E00592",
+    "name": "rna sequencing",
+    "type": "assay",
+    "synonyms": [
+      "RNA sequencing"
+    ],
+    "papers": [
+      "PMC8509868"
+    ]
+  },
+  {
+    "entity_id": "E00593",
+    "name": "flow cytometry",
+    "type": "assay",
+    "synonyms": [
+      "flow cytometry"
+    ],
+    "papers": [
+      "PMC3570223"
+    ]
+  }
+]
