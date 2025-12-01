@@ -1,0 +1,1312 @@
+{
+  "top_by_degree": [
+    {
+      "entity_id": "E00385",
+      "name": "spaceflight",
+      "type": "condition",
+      "degree": 87,
+      "in_degree": 36,
+      "out_degree": 51,
+      "paper_count": 24,
+      "importance_score": 302.5
+    },
+    {
+      "entity_id": "E00382",
+      "name": "microgravity",
+      "type": "condition",
+      "degree": 52,
+      "in_degree": 23,
+      "out_degree": 29,
+      "paper_count": 15,
+      "importance_score": 208.5
+    },
+    {
+      "entity_id": "E00386",
+      "name": "radiation",
+      "type": "condition",
+      "degree": 45,
+      "in_degree": 21,
+      "out_degree": 24,
+      "paper_count": 12,
+      "importance_score": 115.0
+    },
+    {
+      "entity_id": "E00516",
+      "name": "root",
+      "type": "tissue",
+      "degree": 45,
+      "in_degree": 18,
+      "out_degree": 27,
+      "paper_count": 6,
+      "importance_score": 127.5
+    },
+    {
+      "entity_id": "E00499",
+      "name": "bone",
+      "type": "tissue",
+      "degree": 40,
+      "in_degree": 17,
+      "out_degree": 23,
+      "paper_count": 10,
+      "importance_score": 125.5
+    },
+    {
+      "entity_id": "E00448",
+      "name": "ebl",
+      "type": "disease",
+      "degree": 36,
+      "in_degree": 17,
+      "out_degree": 19,
+      "paper_count": 1,
+      "importance_score": 81.5
+    },
+    {
+      "entity_id": "E00318",
+      "name": "ros",
+      "type": "chemical",
+      "degree": 34,
+      "in_degree": 24,
+      "out_degree": 10,
+      "paper_count": 4,
+      "importance_score": 89.5
+    },
+    {
+      "entity_id": "E00387",
+      "name": "space radiation",
+      "type": "condition",
+      "degree": 34,
+      "in_degree": 12,
+      "out_degree": 22,
+      "paper_count": 7,
+      "importance_score": 84.0
+    },
+    {
+      "entity_id": "E00510",
+      "name": "cardiovascular",
+      "type": "tissue",
+      "degree": 34,
+      "in_degree": 16,
+      "out_degree": 18,
+      "paper_count": 3,
+      "importance_score": 82.0
+    },
+    {
+      "entity_id": "E00312",
+      "name": "fyn",
+      "type": "chemical",
+      "degree": 29,
+      "in_degree": 16,
+      "out_degree": 13,
+      "paper_count": 1,
+      "importance_score": 65.0
+    },
+    {
+      "entity_id": "E00190",
+      "name": "cell",
+      "type": "cell_type",
+      "degree": 28,
+      "in_degree": 17,
+      "out_degree": 11,
+      "paper_count": 19,
+      "importance_score": 106.5
+    },
+    {
+      "entity_id": "E00234",
+      "name": "f-actin",
+      "type": "cell_type",
+      "degree": 27,
+      "in_degree": 14,
+      "out_degree": 13,
+      "paper_count": 1,
+      "importance_score": 61.5
+    },
+    {
+      "entity_id": "E00330",
+      "name": "latb",
+      "type": "chemical",
+      "degree": 25,
+      "in_degree": 14,
+      "out_degree": 11,
+      "paper_count": 1,
+      "importance_score": 57.5
+    },
+    {
+      "entity_id": "E00553",
+      "name": "soleus",
+      "type": "tissue",
+      "degree": 24,
+      "in_degree": 11,
+      "out_degree": 13,
+      "paper_count": 1,
+      "importance_score": 54.0
+    },
+    {
+      "entity_id": "E00401",
+      "name": "bone loss",
+      "type": "disease",
+      "degree": 23,
+      "in_degree": 15,
+      "out_degree": 8,
+      "paper_count": 4,
+      "importance_score": 58.5
+    },
+    {
+      "entity_id": "E00207",
+      "name": "dna",
+      "type": "cell_type",
+      "degree": 22,
+      "in_degree": 9,
+      "out_degree": 13,
+      "paper_count": 9,
+      "importance_score": 62.0
+    },
+    {
+      "entity_id": "E00269",
+      "name": "cpcs",
+      "type": "cell_type",
+      "degree": 22,
+      "in_degree": 19,
+      "out_degree": 3,
+      "paper_count": 1,
+      "importance_score": 69.0
+    },
+    {
+      "entity_id": "E00317",
+      "name": "reactive oxygen species",
+      "type": "chemical",
+      "degree": 21,
+      "in_degree": 16,
+      "out_degree": 5,
+      "paper_count": 3,
+      "importance_score": 51.0
+    },
+    {
+      "entity_id": "E00534",
+      "name": "body",
+      "type": "tissue",
+      "degree": 21,
+      "in_degree": 8,
+      "out_degree": 13,
+      "paper_count": 1,
+      "importance_score": 53.5
+    },
+    {
+      "entity_id": "E00001",
+      "name": "mouse",
+      "type": "organism",
+      "degree": 20,
+      "in_degree": 13,
+      "out_degree": 7,
+      "paper_count": 20,
+      "importance_score": 101.5
+    },
+    {
+      "entity_id": "E00298",
+      "name": "high-let",
+      "type": "chemical",
+      "degree": 20,
+      "in_degree": 7,
+      "out_degree": 13,
+      "paper_count": 2,
+      "importance_score": 45.0
+    },
+    {
+      "entity_id": "E00067",
+      "name": "myc",
+      "type": "gene",
+      "degree": 19,
+      "in_degree": 10,
+      "out_degree": 9,
+      "paper_count": 2,
+      "importance_score": 44.5
+    },
+    {
+      "entity_id": "E00408",
+      "name": "infections",
+      "type": "disease",
+      "degree": 18,
+      "in_degree": 11,
+      "out_degree": 7,
+      "paper_count": 5,
+      "importance_score": 59.0
+    },
+    {
+      "entity_id": "E00074",
+      "name": "p21",
+      "type": "gene",
+      "degree": 17,
+      "in_degree": 9,
+      "out_degree": 8,
+      "paper_count": 1,
+      "importance_score": 38.0
+    },
+    {
+      "entity_id": "E00209",
+      "name": "cell cycle/apoptosis-related",
+      "type": "cell_type",
+      "degree": 17,
+      "in_degree": 9,
+      "out_degree": 8,
+      "paper_count": 1,
+      "importance_score": 38.0
+    },
+    {
+      "entity_id": "E00360",
+      "name": "serca",
+      "type": "chemical",
+      "degree": 17,
+      "in_degree": 9,
+      "out_degree": 8,
+      "paper_count": 1,
+      "importance_score": 44.0
+    },
+    {
+      "entity_id": "E00071",
+      "name": "nox1",
+      "type": "gene",
+      "degree": 16,
+      "in_degree": 8,
+      "out_degree": 8,
+      "paper_count": 1,
+      "importance_score": 36.0
+    },
+    {
+      "entity_id": "E00223",
+      "name": "chromosomal",
+      "type": "cell_type",
+      "degree": 16,
+      "in_degree": 7,
+      "out_degree": 9,
+      "paper_count": 2,
+      "importance_score": 37.0
+    },
+    {
+      "entity_id": "E00235",
+      "name": "chemically-fixed z",
+      "type": "cell_type",
+      "degree": 16,
+      "in_degree": 7,
+      "out_degree": 9,
+      "paper_count": 1,
+      "importance_score": 36.0
+    },
+    {
+      "entity_id": "E00296",
+      "name": "56fe",
+      "type": "chemical",
+      "degree": 16,
+      "in_degree": 7,
+      "out_degree": 9,
+      "paper_count": 1,
+      "importance_score": 62.5
+    }
+  ],
+  "top_by_importance": [
+    {
+      "entity_id": "E00385",
+      "name": "spaceflight",
+      "type": "condition",
+      "degree": 87,
+      "in_degree": 36,
+      "out_degree": 51,
+      "paper_count": 24,
+      "importance_score": 302.5
+    },
+    {
+      "entity_id": "E00382",
+      "name": "microgravity",
+      "type": "condition",
+      "degree": 52,
+      "in_degree": 23,
+      "out_degree": 29,
+      "paper_count": 15,
+      "importance_score": 208.5
+    },
+    {
+      "entity_id": "E00516",
+      "name": "root",
+      "type": "tissue",
+      "degree": 45,
+      "in_degree": 18,
+      "out_degree": 27,
+      "paper_count": 6,
+      "importance_score": 127.5
+    },
+    {
+      "entity_id": "E00499",
+      "name": "bone",
+      "type": "tissue",
+      "degree": 40,
+      "in_degree": 17,
+      "out_degree": 23,
+      "paper_count": 10,
+      "importance_score": 125.5
+    },
+    {
+      "entity_id": "E00386",
+      "name": "radiation",
+      "type": "condition",
+      "degree": 45,
+      "in_degree": 21,
+      "out_degree": 24,
+      "paper_count": 12,
+      "importance_score": 115.0
+    },
+    {
+      "entity_id": "E00190",
+      "name": "cell",
+      "type": "cell_type",
+      "degree": 28,
+      "in_degree": 17,
+      "out_degree": 11,
+      "paper_count": 19,
+      "importance_score": 106.5
+    },
+    {
+      "entity_id": "E00001",
+      "name": "mouse",
+      "type": "organism",
+      "degree": 20,
+      "in_degree": 13,
+      "out_degree": 7,
+      "paper_count": 20,
+      "importance_score": 101.5
+    },
+    {
+      "entity_id": "E00318",
+      "name": "ros",
+      "type": "chemical",
+      "degree": 34,
+      "in_degree": 24,
+      "out_degree": 10,
+      "paper_count": 4,
+      "importance_score": 89.5
+    },
+    {
+      "entity_id": "E00387",
+      "name": "space radiation",
+      "type": "condition",
+      "degree": 34,
+      "in_degree": 12,
+      "out_degree": 22,
+      "paper_count": 7,
+      "importance_score": 84.0
+    },
+    {
+      "entity_id": "E00510",
+      "name": "cardiovascular",
+      "type": "tissue",
+      "degree": 34,
+      "in_degree": 16,
+      "out_degree": 18,
+      "paper_count": 3,
+      "importance_score": 82.0
+    },
+    {
+      "entity_id": "E00448",
+      "name": "ebl",
+      "type": "disease",
+      "degree": 36,
+      "in_degree": 17,
+      "out_degree": 19,
+      "paper_count": 1,
+      "importance_score": 81.5
+    },
+    {
+      "entity_id": "E00269",
+      "name": "cpcs",
+      "type": "cell_type",
+      "degree": 22,
+      "in_degree": 19,
+      "out_degree": 3,
+      "paper_count": 1,
+      "importance_score": 69.0
+    },
+    {
+      "entity_id": "E00312",
+      "name": "fyn",
+      "type": "chemical",
+      "degree": 29,
+      "in_degree": 16,
+      "out_degree": 13,
+      "paper_count": 1,
+      "importance_score": 65.0
+    },
+    {
+      "entity_id": "E00296",
+      "name": "56fe",
+      "type": "chemical",
+      "degree": 16,
+      "in_degree": 7,
+      "out_degree": 9,
+      "paper_count": 1,
+      "importance_score": 62.5
+    },
+    {
+      "entity_id": "E00207",
+      "name": "dna",
+      "type": "cell_type",
+      "degree": 22,
+      "in_degree": 9,
+      "out_degree": 13,
+      "paper_count": 9,
+      "importance_score": 62.0
+    },
+    {
+      "entity_id": "E00234",
+      "name": "f-actin",
+      "type": "cell_type",
+      "degree": 27,
+      "in_degree": 14,
+      "out_degree": 13,
+      "paper_count": 1,
+      "importance_score": 61.5
+    },
+    {
+      "entity_id": "E00408",
+      "name": "infections",
+      "type": "disease",
+      "degree": 18,
+      "in_degree": 11,
+      "out_degree": 7,
+      "paper_count": 5,
+      "importance_score": 59.0
+    },
+    {
+      "entity_id": "E00401",
+      "name": "bone loss",
+      "type": "disease",
+      "degree": 23,
+      "in_degree": 15,
+      "out_degree": 8,
+      "paper_count": 4,
+      "importance_score": 58.5
+    },
+    {
+      "entity_id": "E00330",
+      "name": "latb",
+      "type": "chemical",
+      "degree": 25,
+      "in_degree": 14,
+      "out_degree": 11,
+      "paper_count": 1,
+      "importance_score": 57.5
+    },
+    {
+      "entity_id": "E00553",
+      "name": "soleus",
+      "type": "tissue",
+      "degree": 24,
+      "in_degree": 11,
+      "out_degree": 13,
+      "paper_count": 1,
+      "importance_score": 54.0
+    },
+    {
+      "entity_id": "E00534",
+      "name": "body",
+      "type": "tissue",
+      "degree": 21,
+      "in_degree": 8,
+      "out_degree": 13,
+      "paper_count": 1,
+      "importance_score": 53.5
+    },
+    {
+      "entity_id": "E00317",
+      "name": "reactive oxygen species",
+      "type": "chemical",
+      "degree": 21,
+      "in_degree": 16,
+      "out_degree": 5,
+      "paper_count": 3,
+      "importance_score": 51.0
+    },
+    {
+      "entity_id": "E00507",
+      "name": "organ",
+      "type": "tissue",
+      "degree": 14,
+      "in_degree": 6,
+      "out_degree": 8,
+      "paper_count": 5,
+      "importance_score": 49.5
+    },
+    {
+      "entity_id": "E00298",
+      "name": "high-let",
+      "type": "chemical",
+      "degree": 20,
+      "in_degree": 7,
+      "out_degree": 13,
+      "paper_count": 2,
+      "importance_score": 45.0
+    },
+    {
+      "entity_id": "E00067",
+      "name": "myc",
+      "type": "gene",
+      "degree": 19,
+      "in_degree": 10,
+      "out_degree": 9,
+      "paper_count": 2,
+      "importance_score": 44.5
+    },
+    {
+      "entity_id": "E00593",
+      "name": "flow cytometry",
+      "type": "assay",
+      "degree": 3,
+      "in_degree": 1,
+      "out_degree": 2,
+      "paper_count": 1,
+      "importance_score": 44.5
+    },
+    {
+      "entity_id": "E00109",
+      "name": "gcamp3",
+      "type": "gene",
+      "degree": 6,
+      "in_degree": 3,
+      "out_degree": 3,
+      "paper_count": 1,
+      "importance_score": 44.0
+    },
+    {
+      "entity_id": "E00360",
+      "name": "serca",
+      "type": "chemical",
+      "degree": 17,
+      "in_degree": 9,
+      "out_degree": 8,
+      "paper_count": 1,
+      "importance_score": 44.0
+    },
+    {
+      "entity_id": "E00206",
+      "name": "hascs",
+      "type": "cell_type",
+      "degree": 8,
+      "in_degree": 4,
+      "out_degree": 4,
+      "paper_count": 1,
+      "importance_score": 43.5
+    },
+    {
+      "entity_id": "E00500",
+      "name": "tissue",
+      "type": "tissue",
+      "degree": 9,
+      "in_degree": 4,
+      "out_degree": 5,
+      "paper_count": 9,
+      "importance_score": 41.5
+    }
+  ],
+  "top_by_papers": [
+    {
+      "entity_id": "E00385",
+      "name": "spaceflight",
+      "type": "condition",
+      "degree": 87,
+      "in_degree": 36,
+      "out_degree": 51,
+      "paper_count": 24,
+      "importance_score": 302.5
+    },
+    {
+      "entity_id": "E00001",
+      "name": "mouse",
+      "type": "organism",
+      "degree": 20,
+      "in_degree": 13,
+      "out_degree": 7,
+      "paper_count": 20,
+      "importance_score": 101.5
+    },
+    {
+      "entity_id": "E00190",
+      "name": "cell",
+      "type": "cell_type",
+      "degree": 28,
+      "in_degree": 17,
+      "out_degree": 11,
+      "paper_count": 19,
+      "importance_score": 106.5
+    },
+    {
+      "entity_id": "E00382",
+      "name": "microgravity",
+      "type": "condition",
+      "degree": 52,
+      "in_degree": 23,
+      "out_degree": 29,
+      "paper_count": 15,
+      "importance_score": 208.5
+    },
+    {
+      "entity_id": "E00384",
+      "name": "international space station",
+      "type": "condition",
+      "degree": 2,
+      "in_degree": 2,
+      "out_degree": 0,
+      "paper_count": 12,
+      "importance_score": 21.0
+    },
+    {
+      "entity_id": "E00386",
+      "name": "radiation",
+      "type": "condition",
+      "degree": 45,
+      "in_degree": 21,
+      "out_degree": 24,
+      "paper_count": 12,
+      "importance_score": 115.0
+    },
+    {
+      "entity_id": "E00499",
+      "name": "bone",
+      "type": "tissue",
+      "degree": 40,
+      "in_degree": 17,
+      "out_degree": 23,
+      "paper_count": 10,
+      "importance_score": 125.5
+    },
+    {
+      "entity_id": "E00185",
+      "name": "cellular",
+      "type": "cell_type",
+      "degree": 3,
+      "in_degree": 3,
+      "out_degree": 0,
+      "paper_count": 9,
+      "importance_score": 20.0
+    },
+    {
+      "entity_id": "E00207",
+      "name": "dna",
+      "type": "cell_type",
+      "degree": 22,
+      "in_degree": 9,
+      "out_degree": 13,
+      "paper_count": 9,
+      "importance_score": 62.0
+    },
+    {
+      "entity_id": "E00500",
+      "name": "tissue",
+      "type": "tissue",
+      "degree": 9,
+      "in_degree": 4,
+      "out_degree": 5,
+      "paper_count": 9,
+      "importance_score": 41.5
+    },
+    {
+      "entity_id": "E00387",
+      "name": "space radiation",
+      "type": "condition",
+      "degree": 34,
+      "in_degree": 12,
+      "out_degree": 22,
+      "paper_count": 7,
+      "importance_score": 84.0
+    },
+    {
+      "entity_id": "E00388",
+      "name": "ionizing radiation",
+      "type": "condition",
+      "degree": 5,
+      "in_degree": 2,
+      "out_degree": 3,
+      "paper_count": 6,
+      "importance_score": 24.5
+    },
+    {
+      "entity_id": "E00508",
+      "name": "cardiac",
+      "type": "tissue",
+      "degree": 8,
+      "in_degree": 4,
+      "out_degree": 4,
+      "paper_count": 6,
+      "importance_score": 30.5
+    },
+    {
+      "entity_id": "E00516",
+      "name": "root",
+      "type": "tissue",
+      "degree": 45,
+      "in_degree": 18,
+      "out_degree": 27,
+      "paper_count": 6,
+      "importance_score": 127.5
+    },
+    {
+      "entity_id": "E00408",
+      "name": "infections",
+      "type": "disease",
+      "degree": 18,
+      "in_degree": 11,
+      "out_degree": 7,
+      "paper_count": 5,
+      "importance_score": 59.0
+    },
+    {
+      "entity_id": "E00507",
+      "name": "organ",
+      "type": "tissue",
+      "degree": 14,
+      "in_degree": 6,
+      "out_degree": 8,
+      "paper_count": 5,
+      "importance_score": 49.5
+    },
+    {
+      "entity_id": "E00132",
+      "name": "er",
+      "type": "gene",
+      "degree": 4,
+      "in_degree": 2,
+      "out_degree": 2,
+      "paper_count": 4,
+      "importance_score": 20.5
+    },
+    {
+      "entity_id": "E00194",
+      "name": "macrophage",
+      "type": "cell_type",
+      "degree": 8,
+      "in_degree": 5,
+      "out_degree": 3,
+      "paper_count": 4,
+      "importance_score": 29.0
+    },
+    {
+      "entity_id": "E00318",
+      "name": "ros",
+      "type": "chemical",
+      "degree": 34,
+      "in_degree": 24,
+      "out_degree": 10,
+      "paper_count": 4,
+      "importance_score": 89.5
+    },
+    {
+      "entity_id": "E00401",
+      "name": "bone loss",
+      "type": "disease",
+      "degree": 23,
+      "in_degree": 15,
+      "out_degree": 8,
+      "paper_count": 4,
+      "importance_score": 58.5
+    },
+    {
+      "entity_id": "E00521",
+      "name": "muscle",
+      "type": "tissue",
+      "degree": 7,
+      "in_degree": 4,
+      "out_degree": 3,
+      "paper_count": 4,
+      "importance_score": 38.5
+    },
+    {
+      "entity_id": "E00291",
+      "name": "lipid",
+      "type": "chemical",
+      "degree": 5,
+      "in_degree": 4,
+      "out_degree": 1,
+      "paper_count": 3,
+      "importance_score": 25.5
+    },
+    {
+      "entity_id": "E00301",
+      "name": "protons",
+      "type": "chemical",
+      "degree": 11,
+      "in_degree": 5,
+      "out_degree": 6,
+      "paper_count": 3,
+      "importance_score": 40.0
+    },
+    {
+      "entity_id": "E00317",
+      "name": "reactive oxygen species",
+      "type": "chemical",
+      "degree": 21,
+      "in_degree": 16,
+      "out_degree": 5,
+      "paper_count": 3,
+      "importance_score": 51.0
+    },
+    {
+      "entity_id": "E00409",
+      "name": "cancer",
+      "type": "disease",
+      "degree": 3,
+      "in_degree": 1,
+      "out_degree": 2,
+      "paper_count": 3,
+      "importance_score": 26.0
+    },
+    {
+      "entity_id": "E00437",
+      "name": "muscle atrophy",
+      "type": "disease",
+      "degree": 7,
+      "in_degree": 2,
+      "out_degree": 5,
+      "paper_count": 3,
+      "importance_score": 26.0
+    },
+    {
+      "entity_id": "E00510",
+      "name": "cardiovascular",
+      "type": "tissue",
+      "degree": 34,
+      "in_degree": 16,
+      "out_degree": 18,
+      "paper_count": 3,
+      "importance_score": 82.0
+    },
+    {
+      "entity_id": "E00026",
+      "name": "patients",
+      "type": "organism",
+      "degree": 9,
+      "in_degree": 4,
+      "out_degree": 5,
+      "paper_count": 2,
+      "importance_score": 27.5
+    },
+    {
+      "entity_id": "E00060",
+      "name": "trp53",
+      "type": "gene",
+      "degree": 9,
+      "in_degree": 4,
+      "out_degree": 5,
+      "paper_count": 2,
+      "importance_score": 21.5
+    },
+    {
+      "entity_id": "E00063",
+      "name": "collagen",
+      "type": "gene",
+      "degree": 11,
+      "in_degree": 7,
+      "out_degree": 4,
+      "paper_count": 2,
+      "importance_score": 34.5
+    }
+  ],
+  "top_influencers": [
+    {
+      "entity_id": "E00385",
+      "name": "spaceflight",
+      "type": "condition",
+      "degree": 87,
+      "in_degree": 36,
+      "out_degree": 51,
+      "paper_count": 24,
+      "importance_score": 302.5
+    },
+    {
+      "entity_id": "E00382",
+      "name": "microgravity",
+      "type": "condition",
+      "degree": 52,
+      "in_degree": 23,
+      "out_degree": 29,
+      "paper_count": 15,
+      "importance_score": 208.5
+    },
+    {
+      "entity_id": "E00516",
+      "name": "root",
+      "type": "tissue",
+      "degree": 45,
+      "in_degree": 18,
+      "out_degree": 27,
+      "paper_count": 6,
+      "importance_score": 127.5
+    },
+    {
+      "entity_id": "E00386",
+      "name": "radiation",
+      "type": "condition",
+      "degree": 45,
+      "in_degree": 21,
+      "out_degree": 24,
+      "paper_count": 12,
+      "importance_score": 115.0
+    },
+    {
+      "entity_id": "E00499",
+      "name": "bone",
+      "type": "tissue",
+      "degree": 40,
+      "in_degree": 17,
+      "out_degree": 23,
+      "paper_count": 10,
+      "importance_score": 125.5
+    },
+    {
+      "entity_id": "E00387",
+      "name": "space radiation",
+      "type": "condition",
+      "degree": 34,
+      "in_degree": 12,
+      "out_degree": 22,
+      "paper_count": 7,
+      "importance_score": 84.0
+    },
+    {
+      "entity_id": "E00448",
+      "name": "ebl",
+      "type": "disease",
+      "degree": 36,
+      "in_degree": 17,
+      "out_degree": 19,
+      "paper_count": 1,
+      "importance_score": 81.5
+    },
+    {
+      "entity_id": "E00510",
+      "name": "cardiovascular",
+      "type": "tissue",
+      "degree": 34,
+      "in_degree": 16,
+      "out_degree": 18,
+      "paper_count": 3,
+      "importance_score": 82.0
+    },
+    {
+      "entity_id": "E00207",
+      "name": "dna",
+      "type": "cell_type",
+      "degree": 22,
+      "in_degree": 9,
+      "out_degree": 13,
+      "paper_count": 9,
+      "importance_score": 62.0
+    },
+    {
+      "entity_id": "E00234",
+      "name": "f-actin",
+      "type": "cell_type",
+      "degree": 27,
+      "in_degree": 14,
+      "out_degree": 13,
+      "paper_count": 1,
+      "importance_score": 61.5
+    },
+    {
+      "entity_id": "E00298",
+      "name": "high-let",
+      "type": "chemical",
+      "degree": 20,
+      "in_degree": 7,
+      "out_degree": 13,
+      "paper_count": 2,
+      "importance_score": 45.0
+    },
+    {
+      "entity_id": "E00312",
+      "name": "fyn",
+      "type": "chemical",
+      "degree": 29,
+      "in_degree": 16,
+      "out_degree": 13,
+      "paper_count": 1,
+      "importance_score": 65.0
+    },
+    {
+      "entity_id": "E00534",
+      "name": "body",
+      "type": "tissue",
+      "degree": 21,
+      "in_degree": 8,
+      "out_degree": 13,
+      "paper_count": 1,
+      "importance_score": 53.5
+    },
+    {
+      "entity_id": "E00553",
+      "name": "soleus",
+      "type": "tissue",
+      "degree": 24,
+      "in_degree": 11,
+      "out_degree": 13,
+      "paper_count": 1,
+      "importance_score": 54.0
+    },
+    {
+      "entity_id": "E00190",
+      "name": "cell",
+      "type": "cell_type",
+      "degree": 28,
+      "in_degree": 17,
+      "out_degree": 11,
+      "paper_count": 19,
+      "importance_score": 106.5
+    },
+    {
+      "entity_id": "E00330",
+      "name": "latb",
+      "type": "chemical",
+      "degree": 25,
+      "in_degree": 14,
+      "out_degree": 11,
+      "paper_count": 1,
+      "importance_score": 57.5
+    },
+    {
+      "entity_id": "E00155",
+      "name": "vwf",
+      "type": "gene",
+      "degree": 12,
+      "in_degree": 2,
+      "out_degree": 10,
+      "paper_count": 1,
+      "importance_score": 30.0
+    },
+    {
+      "entity_id": "E00271",
+      "name": "mesendodermal",
+      "type": "cell_type",
+      "degree": 12,
+      "in_degree": 2,
+      "out_degree": 10,
+      "paper_count": 1,
+      "importance_score": 30.0
+    },
+    {
+      "entity_id": "E00318",
+      "name": "ros",
+      "type": "chemical",
+      "degree": 34,
+      "in_degree": 24,
+      "out_degree": 10,
+      "paper_count": 4,
+      "importance_score": 89.5
+    },
+    {
+      "entity_id": "E00483",
+      "name": "tnnt2",
+      "type": "disease",
+      "degree": 12,
+      "in_degree": 2,
+      "out_degree": 10,
+      "paper_count": 1,
+      "importance_score": 30.0
+    }
+  ],
+  "top_influenced": [
+    {
+      "entity_id": "E00385",
+      "name": "spaceflight",
+      "type": "condition",
+      "degree": 87,
+      "in_degree": 36,
+      "out_degree": 51,
+      "paper_count": 24,
+      "importance_score": 302.5
+    },
+    {
+      "entity_id": "E00318",
+      "name": "ros",
+      "type": "chemical",
+      "degree": 34,
+      "in_degree": 24,
+      "out_degree": 10,
+      "paper_count": 4,
+      "importance_score": 89.5
+    },
+    {
+      "entity_id": "E00382",
+      "name": "microgravity",
+      "type": "condition",
+      "degree": 52,
+      "in_degree": 23,
+      "out_degree": 29,
+      "paper_count": 15,
+      "importance_score": 208.5
+    },
+    {
+      "entity_id": "E00386",
+      "name": "radiation",
+      "type": "condition",
+      "degree": 45,
+      "in_degree": 21,
+      "out_degree": 24,
+      "paper_count": 12,
+      "importance_score": 115.0
+    },
+    {
+      "entity_id": "E00269",
+      "name": "cpcs",
+      "type": "cell_type",
+      "degree": 22,
+      "in_degree": 19,
+      "out_degree": 3,
+      "paper_count": 1,
+      "importance_score": 69.0
+    },
+    {
+      "entity_id": "E00516",
+      "name": "root",
+      "type": "tissue",
+      "degree": 45,
+      "in_degree": 18,
+      "out_degree": 27,
+      "paper_count": 6,
+      "importance_score": 127.5
+    },
+    {
+      "entity_id": "E00190",
+      "name": "cell",
+      "type": "cell_type",
+      "degree": 28,
+      "in_degree": 17,
+      "out_degree": 11,
+      "paper_count": 19,
+      "importance_score": 106.5
+    },
+    {
+      "entity_id": "E00448",
+      "name": "ebl",
+      "type": "disease",
+      "degree": 36,
+      "in_degree": 17,
+      "out_degree": 19,
+      "paper_count": 1,
+      "importance_score": 81.5
+    },
+    {
+      "entity_id": "E00499",
+      "name": "bone",
+      "type": "tissue",
+      "degree": 40,
+      "in_degree": 17,
+      "out_degree": 23,
+      "paper_count": 10,
+      "importance_score": 125.5
+    },
+    {
+      "entity_id": "E00312",
+      "name": "fyn",
+      "type": "chemical",
+      "degree": 29,
+      "in_degree": 16,
+      "out_degree": 13,
+      "paper_count": 1,
+      "importance_score": 65.0
+    },
+    {
+      "entity_id": "E00317",
+      "name": "reactive oxygen species",
+      "type": "chemical",
+      "degree": 21,
+      "in_degree": 16,
+      "out_degree": 5,
+      "paper_count": 3,
+      "importance_score": 51.0
+    },
+    {
+      "entity_id": "E00510",
+      "name": "cardiovascular",
+      "type": "tissue",
+      "degree": 34,
+      "in_degree": 16,
+      "out_degree": 18,
+      "paper_count": 3,
+      "importance_score": 82.0
+    },
+    {
+      "entity_id": "E00401",
+      "name": "bone loss",
+      "type": "disease",
+      "degree": 23,
+      "in_degree": 15,
+      "out_degree": 8,
+      "paper_count": 4,
+      "importance_score": 58.5
+    },
+    {
+      "entity_id": "E00234",
+      "name": "f-actin",
+      "type": "cell_type",
+      "degree": 27,
+      "in_degree": 14,
+      "out_degree": 13,
+      "paper_count": 1,
+      "importance_score": 61.5
+    },
+    {
+      "entity_id": "E00330",
+      "name": "latb",
+      "type": "chemical",
+      "degree": 25,
+      "in_degree": 14,
+      "out_degree": 11,
+      "paper_count": 1,
+      "importance_score": 57.5
+    },
+    {
+      "entity_id": "E00001",
+      "name": "mouse",
+      "type": "organism",
+      "degree": 20,
+      "in_degree": 13,
+      "out_degree": 7,
+      "paper_count": 20,
+      "importance_score": 101.5
+    },
+    {
+      "entity_id": "E00387",
+      "name": "space radiation",
+      "type": "condition",
+      "degree": 34,
+      "in_degree": 12,
+      "out_degree": 22,
+      "paper_count": 7,
+      "importance_score": 84.0
+    },
+    {
+      "entity_id": "E00408",
+      "name": "infections",
+      "type": "disease",
+      "degree": 18,
+      "in_degree": 11,
+      "out_degree": 7,
+      "paper_count": 5,
+      "importance_score": 59.0
+    },
+    {
+      "entity_id": "E00553",
+      "name": "soleus",
+      "type": "tissue",
+      "degree": 24,
+      "in_degree": 11,
+      "out_degree": 13,
+      "paper_count": 1,
+      "importance_score": 54.0
+    },
+    {
+      "entity_id": "E00067",
+      "name": "myc",
+      "type": "gene",
+      "degree": 19,
+      "in_degree": 10,
+      "out_degree": 9,
+      "paper_count": 2,
+      "importance_score": 44.5
+    }
+  ]
+}

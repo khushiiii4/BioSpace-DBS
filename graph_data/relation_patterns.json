@@ -1,0 +1,355 @@
+{
+  "relation_type_counts": {
+    "induces": 95,
+    "affects": 109,
+    "causes": 66,
+    "increases": 231,
+    "associated_with": 42,
+    "decreases": 196,
+    "used_in": 13,
+    "expressed_in": 4,
+    "inhibits": 2
+  },
+  "top_entity_pairs": [
+    {
+      "entities": [
+        "fyn",
+        "cardiovascular"
+      ],
+      "relation_count": 7,
+      "relation_types": [
+        "affects",
+        "increases",
+        "increases",
+        "decreases",
+        "decreases",
+        "induces",
+        "induces"
+      ]
+    },
+    {
+      "entities": [
+        "microgravity",
+        "bone"
+      ],
+      "relation_count": 6,
+      "relation_types": [
+        "causes",
+        "causes",
+        "induces",
+        "induces",
+        "decreases",
+        "decreases"
+      ]
+    },
+    {
+      "entities": [
+        "space radiation",
+        "cardiovascular"
+      ],
+      "relation_count": 6,
+      "relation_types": [
+        "affects",
+        "affects",
+        "increases",
+        "decreases",
+        "induces",
+        "induces"
+      ]
+    },
+    {
+      "entities": [
+        "fyn",
+        "space radiation"
+      ],
+      "relation_count": 6,
+      "relation_types": [
+        "affects",
+        "increases",
+        "decreases",
+        "induces",
+        "induces",
+        "increases"
+      ]
+    },
+    {
+      "entities": [
+        "ebl",
+        "root"
+      ],
+      "relation_count": 6,
+      "relation_types": [
+        "increases",
+        "increases",
+        "affects",
+        "decreases",
+        "decreases",
+        "affects"
+      ]
+    },
+    {
+      "entities": [
+        "latb",
+        "ebl"
+      ],
+      "relation_count": 6,
+      "relation_types": [
+        "increases",
+        "increases",
+        "affects",
+        "decreases",
+        "decreases",
+        "affects"
+      ]
+    },
+    {
+      "entities": [
+        "f-actin",
+        "ebl"
+      ],
+      "relation_count": 6,
+      "relation_types": [
+        "increases",
+        "affects",
+        "decreases",
+        "decreases",
+        "affects",
+        "increases"
+      ]
+    },
+    {
+      "entities": [
+        "buoe",
+        "spaceflight"
+      ],
+      "relation_count": 6,
+      "relation_types": [
+        "increases",
+        "decreases",
+        "induces",
+        "increases",
+        "decreases",
+        "induces"
+      ]
+    },
+    {
+      "entities": [
+        "osteoclasts",
+        "bone"
+      ],
+      "relation_count": 5,
+      "relation_types": [
+        "causes",
+        "causes",
+        "increases",
+        "decreases",
+        "decreases"
+      ]
+    },
+    {
+      "entities": [
+        "reactive oxygen species",
+        "cardiovascular"
+      ],
+      "relation_count": 5,
+      "relation_types": [
+        "affects",
+        "increases",
+        "decreases",
+        "decreases",
+        "induces"
+      ]
+    },
+    {
+      "entities": [
+        "fyn",
+        "radiation"
+      ],
+      "relation_count": 5,
+      "relation_types": [
+        "increases",
+        "increases",
+        "decreases",
+        "induces",
+        "induces"
+      ]
+    },
+    {
+      "entities": [
+        "fyn",
+        "reactive oxygen species"
+      ],
+      "relation_count": 5,
+      "relation_types": [
+        "increases",
+        "decreases",
+        "decreases",
+        "induces",
+        "increases"
+      ]
+    },
+    {
+      "entities": [
+        "fyn",
+        "ros"
+      ],
+      "relation_count": 5,
+      "relation_types": [
+        "increases",
+        "decreases",
+        "decreases",
+        "induces",
+        "increases"
+      ]
+    },
+    {
+      "entities": [
+        "radiation",
+        "cardiovascular"
+      ],
+      "relation_count": 5,
+      "relation_types": [
+        "increases",
+        "increases",
+        "decreases",
+        "induces",
+        "induces"
+      ]
+    },
+    {
+      "entities": [
+        "dna",
+        "56fe"
+      ],
+      "relation_count": 5,
+      "relation_types": [
+        "increases",
+        "increases",
+        "decreases",
+        "induces",
+        "induces"
+      ]
+    },
+    {
+      "entities": [
+        "latb",
+        "root"
+      ],
+      "relation_count": 5,
+      "relation_types": [
+        "increases",
+        "increases",
+        "affects",
+        "affects",
+        "decreases"
+      ]
+    },
+    {
+      "entities": [
+        "f-actin",
+        "root"
+      ],
+      "relation_count": 5,
+      "relation_types": [
+        "increases",
+        "affects",
+        "affects",
+        "decreases",
+        "decreases"
+      ]
+    },
+    {
+      "entities": [
+        "osteoclasts",
+        "microgravity"
+      ],
+      "relation_count": 4,
+      "relation_types": [
+        "causes",
+        "causes",
+        "decreases",
+        "decreases"
+      ]
+    },
+    {
+      "entities": [
+        "collagen",
+        "microspheres"
+      ],
+      "relation_count": 4,
+      "relation_types": [
+        "increases",
+        "increases",
+        "used_in",
+        "used_in"
+      ]
+    },
+    {
+      "entities": [
+        "hascs",
+        "microspheres"
+      ],
+      "relation_count": 4,
+      "relation_types": [
+        "increases",
+        "increases",
+        "used_in",
+        "used_in"
+      ]
+    }
+  ],
+  "type_pair_counts": {
+    "gene → gene": 52,
+    "tissue → chemical": 41,
+    "chemical → chemical": 40,
+    "condition → chemical": 36,
+    "condition → tissue": 26,
+    "gene → cell_type": 26,
+    "chemical → tissue": 25,
+    "tissue → cell_type": 23,
+    "tissue → condition": 22,
+    "cell_type → cell_type": 22,
+    "condition → gene": 21,
+    "cell_type → tissue": 21,
+    "chemical → cell_type": 21,
+    "disease → tissue": 20,
+    "chemical → disease": 20,
+    "chemical → condition": 19,
+    "tissue → disease": 19,
+    "cell_type → chemical": 18,
+    "cell_type → gene": 18,
+    "condition → cell_type": 17,
+    "tissue → tissue": 17,
+    "tissue → gene": 16,
+    "cell_type → disease": 16,
+    "gene → condition": 16,
+    "disease → gene": 15,
+    "disease → cell_type": 15,
+    "condition → condition": 15,
+    "condition → disease": 14,
+    "cell_type → condition": 14,
+    "disease → chemical": 13,
+    "disease → condition": 12,
+    "gene → tissue": 11,
+    "chemical → gene": 9,
+    "disease → disease": 8,
+    "gene → disease": 7,
+    "gene → chemical": 7,
+    "disease → organism": 7,
+    "organism → chemical": 5,
+    "chemical → organism": 5,
+    "condition → organism": 4,
+    "organism → condition": 4,
+    "organism → disease": 4,
+    "tissue → organism": 3,
+    "organism → tissue": 3,
+    "gene → organism": 3,
+    "cell_type → organism": 2,
+    "assay → cell_type": 1,
+    "assay → gene": 1,
+    "gene → assay": 1,
+    "organism → cell_type": 1,
+    "organism → gene": 1,
+    "organism → organism": 1
+  }
+}
